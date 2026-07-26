@@ -1,0 +1,5215 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "fa": "این خوب است.",
+      "en": "It is good.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 2,
+      "fa": "این کتاب خوب است.",
+      "en": "This book is good.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 501,
+      "fa": "امروز روز خوبی است.",
+      "en": "Today is a good day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 4,
+      "fa": "دوست من آدم خوبی است.",
+      "en": "My friend is a good person.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 5,
+      "fa": "یک معلم خوب به همه دانش‌آموزان کمک می‌کند.",
+      "en": "A good teacher helps every student.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 6,
+      "fa": "یک صبحانه خوب به من انرژی می‌دهد.",
+      "en": "A good breakfast gives me energy.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 7,
+      "fa": "دوستان خوب در روزهای خوب و بد کنار تو می‌مانند.",
+      "en": "Good friends stay with you in both good and bad times.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 8,
+      "fa": "خواندن یک کتاب خوب قبل از خواب به من کمک می‌کند بهتر بخوابم.",
+      "en": "Reading a good book before bed helps me sleep better.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 9,
+      "fa": "یاد گرفتن یک عادت خوب می‌تواند آینده تو را تغییر دهد.",
+      "en": "Learning one good habit can change your future.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 10,
+      "fa": "یک تصمیم خوب امروز می‌تواند فرصت‌های خوبی برای فردا بسازد.",
+      "en": "A good decision today can create good opportunities tomorrow.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 11,
+      "fa": "این بد است.",
+      "en": "It is bad.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 12,
+      "fa": "امروز روز بدی است.",
+      "en": "Today is a bad day.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 13,
+      "fa": "این غذا بد است.",
+      "en": "This food is bad.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 14,
+      "fa": "او تصمیم بدی گرفت.",
+      "en": "He made a bad decision.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 15,
+      "fa": "هوای امروز خیلی بد است.",
+      "en": "The weather is very bad today.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 16,
+      "fa": "یک عادت بد می‌تواند زندگی تو را سخت کند.",
+      "en": "A bad habit can make your life difficult.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 17,
+      "fa": "بعد از یک روز بد، یک فنجان چای حالم را بهتر کرد.",
+      "en": "After a bad day, a cup of tea made me feel better.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 18,
+      "fa": "یک دوست خوب هرگز تو را در روزهای بد تنها نمی‌گذارد.",
+      "en": "A good friend never leaves you alone on bad days.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 19,
+      "fa": "گاهی یک تجربه بد بهترین معلم زندگی است.",
+      "en": "Sometimes a bad experience is the best teacher.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 20,
+      "fa": "یک تصمیم بد امروز می‌تواند آینده تو را تغییر دهد.",
+      "en": "A bad decision today can change your future.",
+      "category": "📘 bad",
+      "lang": "en"
+    },
+    {
+      "id": 21,
+      "fa": "این بزرگ است.",
+      "en": "It is big.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 22,
+      "fa": "این یک خانه بزرگ است.",
+      "en": "This is a big house.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 23,
+      "fa": "او یک سگ بزرگ دارد.",
+      "en": "He has a big dog.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 24,
+      "fa": "من یک رویای بزرگ دارم.",
+      "en": "I have a big dream.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 25,
+      "fa": "این شهر بسیار بزرگ است.",
+      "en": "This city is very big.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 26,
+      "fa": "یک لبخند بزرگ روز مرا بهتر کرد.",
+      "en": "A big smile made my day better.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 27,
+      "fa": "یادگیری انگلیسی یک قدم بزرگ است.",
+      "en": "Learning English is a big step.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 28,
+      "fa": "او برای رسیدن به هدف بزرگش سخت تلاش کرد.",
+      "en": "He worked hard to reach his big goal.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 29,
+      "fa": "یک ایده بزرگ می‌تواند دنیا را تغییر دهد.",
+      "en": "A big idea can change the world.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 30,
+      "fa": "موفقیت‌های بزرگ با قدم‌های کوچک شروع می‌شوند.",
+      "en": "Big successes begin with small steps.",
+      "category": "📘 big",
+      "lang": "en"
+    },
+    {
+      "id": 31,
+      "fa": "این کوچک است.",
+      "en": "It is small.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 32,
+      "fa": "این یک اتاق کوچک است.",
+      "en": "This is a small room.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 33,
+      "fa": "من یک کیف کوچک دارم.",
+      "en": "I have a small bag.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 34,
+      "fa": "یک اشتباه کوچک می‌تواند یک درس بزرگ باشد.",
+      "en": "A small mistake can be a big lesson.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 35,
+      "fa": "یک لبخند کوچک همه چیز را تغییر داد.",
+      "en": "A small smile changed everything.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 424,
+      "fa": "ما در یک خانه کوچک زندگی می‌کنیم.",
+      "en": "We live in a small house.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 37,
+      "fa": "یک تغییر کوچک می‌تواند نتیجه بزرگی داشته باشد.",
+      "en": "A small change can have a big result.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 38,
+      "fa": "او با یک هدیه کوچک مرا خوشحال کرد.",
+      "en": "She made me happy with a small gift.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 39,
+      "fa": "هر روز یک قدم کوچک به هدفت نزدیک‌تر می‌شوی.",
+      "en": "Every day a small step brings you closer to your goal.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 40,
+      "fa": "چیزهای کوچک گاهی بزرگ‌ترین تفاوت را ایجاد می‌کنند.",
+      "en": "Small things sometimes make the biggest difference.",
+      "category": "📘 small",
+      "lang": "en"
+    },
+    {
+      "id": 41,
+      "fa": "من خوشحال هستم.",
+      "en": "I am happy.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 42,
+      "fa": "او امروز خوشحال است.",
+      "en": "She is happy today.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 43,
+      "fa": "کودکان هنگام بازی خوشحال هستند.",
+      "en": "Children are happy when they play.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 44,
+      "fa": "من از دیدن دوستم خوشحال شدم.",
+      "en": "I was happy to see my friend.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 45,
+      "fa": "خبر خوب همه را خوشحال کرد.",
+      "en": "The good news made everyone happy.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 46,
+      "fa": "یک فنجان قهوه صبحگاهی مرا خوشحال می‌کند.",
+      "en": "A cup of morning coffee makes me happy.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 47,
+      "fa": "دوستان خوب همیشه سعی می‌کنند تو را خوشحال کنند.",
+      "en": "Good friends always try to make you happy.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 48,
+      "fa": "رسیدن به هدف‌های کوچک مرا خوشحال می‌کند.",
+      "en": "Achieving small goals makes me happy.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 49,
+      "fa": "او با وجود مشکلات بزرگ، خوشحال و امیدوار ماند.",
+      "en": "He stayed happy and hopeful despite big problems.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 50,
+      "fa": "اگر هر روز چیز جدیدی یاد بگیری، احساس خوشحالی بیشتری خواهی داشت.",
+      "en": "If you learn something new every day, you will feel happier.",
+      "category": "📘 happy",
+      "lang": "en"
+    },
+    {
+      "id": 51,
+      "fa": "من غمگین هستم.",
+      "en": "I am sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 52,
+      "fa": "او امروز غمگین است.",
+      "en": "She is sad today.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 53,
+      "fa": "این خبر مرا غمگین کرد.",
+      "en": "The news made me sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 54,
+      "fa": "دوستم غمگین به نظر می‌رسد.",
+      "en": "My friend looks sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 55,
+      "fa": "آن فیلم غمگین بود.",
+      "en": "That movie was sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 56,
+      "fa": "گاهی موسیقی غمگین گوش می‌دهم.",
+      "en": "I sometimes listen to sad music.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 57,
+      "fa": "او با چهره‌ای غمگین رفت.",
+      "en": "He left with a sad face.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 58,
+      "fa": "یک دوست خوب به فرد غمگین کمک می‌کند.",
+      "en": "A good friend helps a sad person.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 59,
+      "fa": "بعد از آن روز بد، همه غمگین بودند.",
+      "en": "After that bad day, everyone was sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 60,
+      "fa": "با وجود لحظه‌های غمگین، امیدت را از دست نده.",
+      "en": "Do not lose hope despite sad moments.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 61,
+      "fa": "این آسان است.",
+      "en": "It is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 62,
+      "fa": "این سؤال آسان است.",
+      "en": "This question is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 63,
+      "fa": "یادگیری این کلمه آسان است.",
+      "en": "Learning this word is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 64,
+      "fa": "این بازی آسان است.",
+      "en": "This game is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 65,
+      "fa": "کار امروز آسان بود.",
+      "en": "Today's work was easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 66,
+      "fa": "با تمرین، انگلیسی آسان‌تر می‌شود.",
+      "en": "With practice, English becomes easier.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 67,
+      "fa": "این کتاب برای مبتدیان آسان است.",
+      "en": "This book is easy for beginners.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 68,
+      "fa": "دوست خوب یادگیری را آسان می‌کند.",
+      "en": "A good friend makes learning easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 69,
+      "fa": "وقتی برنامه داشته باشی، زندگی آسان‌تر می‌شود.",
+      "en": "Life becomes easier when you have a plan.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 70,
+      "fa": "هیچ موفقیتی از روز اول آسان نیست.",
+      "en": "No success is easy from the first day.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 71,
+      "fa": "این سخت است.",
+      "en": "It is hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 72,
+      "fa": "این سؤال سخت است.",
+      "en": "This question is hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 73,
+      "fa": "امتحان سخت بود.",
+      "en": "The exam was hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 74,
+      "fa": "او سخت کار می‌کند.",
+      "en": "He works hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 75,
+      "fa": "یادگیری زمان می‌خواهد، اما سخت نیست.",
+      "en": "Learning takes time, but it is not hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 76,
+      "fa": "این تصمیم سخت بود.",
+      "en": "This decision was hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 77,
+      "fa": "روزهای سخت می‌گذرند.",
+      "en": "Hard days pass.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 78,
+      "fa": "کار سخت نتیجه خوب دارد.",
+      "en": "Hard work brings good results.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 79,
+      "fa": "او با وجود مشکلات سخت ادامه داد.",
+      "en": "He kept going despite hard problems.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 80,
+      "fa": "تمرین سخت امروز، موفقیت بزرگ فرداست.",
+      "en": "Hard practice today brings big success tomorrow.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 81,
+      "fa": "او سریع است.",
+      "en": "He is fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 82,
+      "fa": "این ماشین سریع است.",
+      "en": "This car is fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 83,
+      "fa": "سریع راه برو.",
+      "en": "Walk fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 84,
+      "fa": "او سریع می‌دود.",
+      "en": "She runs fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 85,
+      "fa": "این اینترنت سریع است.",
+      "en": "This internet is fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 86,
+      "fa": "قطار سریع رسید.",
+      "en": "The train arrived fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 87,
+      "fa": "او سریع یاد می‌گیرد.",
+      "en": "He learns fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 88,
+      "fa": "با تمرین سریع‌تر پیشرفت می‌کنی.",
+      "en": "You improve faster with practice.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 89,
+      "fa": "یک تصمیم سریع همیشه تصمیم خوبی نیست.",
+      "en": "A fast decision is not always a good decision.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 90,
+      "fa": "او سریع کار کرد و زود تمام کرد.",
+      "en": "He worked fast and finished early.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 91,
+      "fa": "او آهسته راه می‌رود.",
+      "en": "He walks slowly.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 92,
+      "fa": "این اینترنت کند است.",
+      "en": "This internet is slow.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 93,
+      "fa": "آهسته صحبت کن.",
+      "en": "Speak slowly.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 94,
+      "fa": "لاک‌پشت آهسته حرکت می‌کند.",
+      "en": "A turtle moves slowly.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 95,
+      "fa": "امروز ترافیک کند بود.",
+      "en": "Traffic was slow today.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 96,
+      "fa": "او آهسته اما دقیق کار می‌کند.",
+      "en": "He works slowly but carefully.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 97,
+      "fa": "یادگیری آهسته بهتر از یاد نگرفتن است.",
+      "en": "Learning slowly is better than not learning.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 98,
+      "fa": "قطار امروز کندتر از همیشه بود.",
+      "en": "The train was slower than usual today.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 99,
+      "fa": "پیشرفت آهسته هم پیشرفت است.",
+      "en": "Slow progress is still progress.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 100,
+      "fa": "آهسته حرکت کن و اشتباهات کمتری انجام بده.",
+      "en": "Move slowly and make fewer mistakes.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 111,
+      "fa": "این جدید است.",
+      "en": "This is new.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 112,
+      "fa": "من یک کتاب جدید دارم.",
+      "en": "I have a new book.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 113,
+      "fa": "تلفن جدید من خوب است.",
+      "en": "My new phone is good.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 114,
+      "fa": "امروز یک کیف جدید خریدم.",
+      "en": "Today I bought a new bag.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 115,
+      "fa": "ما در یک خانه جدید زندگی می‌کنیم.",
+      "en": "We live in a new house.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 116,
+      "fa": "او یک شغل جدید پیدا کرد.",
+      "en": "She found a new job.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 117,
+      "fa": "یادگیری کلمات جدید لذت‌بخش است.",
+      "en": "Learning new words is fun.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 118,
+      "fa": "هر روز جدید یک فرصت تازه است.",
+      "en": "Every new day is a new chance.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 119,
+      "fa": "یک ایده جدید پروژه را تغییر داد.",
+      "en": "A new idea changed the project.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 120,
+      "fa": "هرگز یادگیری چیزهای جدید را متوقف نکن.",
+      "en": "Never stop learning new things.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 121,
+      "fa": "این قدیمی است.",
+      "en": "This is old.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 122,
+      "fa": "کیف قدیمی من کوچک است.",
+      "en": "My old bag is small.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 123,
+      "fa": "آن خانه قدیمی زیباست.",
+      "en": "That old house is beautiful.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 124,
+      "fa": "پدربزرگم پیر است.",
+      "en": "My grandfather is old.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 125,
+      "fa": "من یک کتاب قدیمی پیدا کردم.",
+      "en": "I found an old book.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 126,
+      "fa": "دوستان قدیمی خاص هستند.",
+      "en": "Old friends are special.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 127,
+      "fa": "آن درخت قدیمی خیلی بزرگ است.",
+      "en": "That old tree is very big.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 128,
+      "fa": "او یک ماشین قدیمی می‌راند.",
+      "en": "He drives an old car.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 129,
+      "fa": "خاطرات قدیمی مرا خوشحال می‌کنند.",
+      "en": "Old memories make me happy.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 130,
+      "fa": "به افراد سالمند احترام بگذار.",
+      "en": "Respect old people.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 131,
+      "fa": "او جوان است.",
+      "en": "He is young.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 132,
+      "fa": "او یک معلم جوان است.",
+      "en": "She is a young teacher.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 133,
+      "fa": "پسر جوان خوشحال است.",
+      "en": "The young boy is happy.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 134,
+      "fa": "آن زمان جوان بودم.",
+      "en": "I was young then.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 135,
+      "fa": "جوانان سریع یاد می‌گیرند.",
+      "en": "Young people learn fast.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 136,
+      "fa": "آن پزشک جوان مهربان است.",
+      "en": "That young doctor is kind.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 137,
+      "fa": "ذهن‌های جوان ایده‌های جدید را دوست دارند.",
+      "en": "Young minds love new ideas.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 138,
+      "fa": "دانش‌آموز جوان سخت تلاش می‌کند.",
+      "en": "The young student works hard.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 139,
+      "fa": "هر فرد سالمندی روزی جوان بوده است.",
+      "en": "Every old person was once young.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 140,
+      "fa": "در قلبت جوان بمان.",
+      "en": "Stay young at heart.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 141,
+      "fa": "این گل زیباست.",
+      "en": "The flower is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 142,
+      "fa": "او لبخند زیبایی دارد.",
+      "en": "She has a beautiful smile.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 143,
+      "fa": "امروز روز زیبایی است.",
+      "en": "It is a beautiful day.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 144,
+      "fa": "این شهر زیباست.",
+      "en": "This city is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 145,
+      "fa": "پارک زیبا به نظر می‌رسد.",
+      "en": "The park looks beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 146,
+      "fa": "موسیقی زیبا مرا خوشحال می‌کند.",
+      "en": "Beautiful music makes me happy.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 147,
+      "fa": "آن خانه زیباست.",
+      "en": "That house is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 148,
+      "fa": "غروب زیباست.",
+      "en": "The sunset is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 149,
+      "fa": "قلب زیبا مهم است.",
+      "en": "A beautiful heart is important.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 150,
+      "fa": "وقتی لبخند می‌زنی زندگی زیباست.",
+      "en": "Life is beautiful when you smile.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 151,
+      "fa": "این زشت است.",
+      "en": "It is ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 152,
+      "fa": "دیوار زشت به نظر می‌رسد.",
+      "en": "The wall looks ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 153,
+      "fa": "آن پیراهن زشت است.",
+      "en": "That shirt is ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 154,
+      "fa": "هوای امروز بد و دلگیر است.",
+      "en": "The weather is ugly today.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 155,
+      "fa": "یک اشتباه زشت رخ داد.",
+      "en": "An ugly mistake happened.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 156,
+      "fa": "از کلمات زشت استفاده نکن.",
+      "en": "Do not use ugly words.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 157,
+      "fa": "ساختمان قدیمی زشت به نظر می‌رسد.",
+      "en": "The old building looks ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 158,
+      "fa": "رفتار زشت به مردم آسیب می‌زند.",
+      "en": "Ugly behavior hurts people.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 159,
+      "fa": "زیبایی درون انسان است، نه ظاهر.",
+      "en": "Beauty is inside, not outside.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 160,
+      "fa": "هرگز مردم را از روی چهره قضاوت نکن.",
+      "en": "Never judge people by an ugly face.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 161,
+      "fa": "این تمیز است.",
+      "en": "It is clean.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 162,
+      "fa": "اتاق من تمیز است.",
+      "en": "My room is clean.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 163,
+      "fa": "دست‌های تو تمیز هستند.",
+      "en": "Your hands are clean.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 164,
+      "fa": "این بیمارستان تمیز است.",
+      "en": "This hospital is clean.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 472,
+      "fa": "آب تمیز است.",
+      "en": "The water is clean.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 166,
+      "fa": "میزت را تمیز نگه دار.",
+      "en": "Keep your desk clean.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 167,
+      "fa": "یک خانه تمیز حس خوبی می‌دهد.",
+      "en": "A clean house feels good.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 168,
+      "fa": "لباس‌های تمیز بوی خوبی دارند.",
+      "en": "Clean clothes smell nice.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 169,
+      "fa": "یک شهر تمیز سالم‌تر است.",
+      "en": "A clean city is healthier.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 170,
+      "fa": "عادت‌های تمیز زندگی‌ات را بهتر می‌کنند.",
+      "en": "Clean habits improve your life.",
+      "category": "📘 clean",
+      "lang": "en"
+    },
+    {
+      "id": 171,
+      "fa": "این کثیف است.",
+      "en": "It is dirty.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 172,
+      "fa": "کفش‌های من کثیف هستند.",
+      "en": "My shoes are dirty.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 173,
+      "fa": "میز کثیف است.",
+      "en": "The table is dirty.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 174,
+      "fa": "دست‌های او کثیف هستند.",
+      "en": "His hands are dirty.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 175,
+      "fa": "این جاده کثیف است.",
+      "en": "This road is dirty.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 176,
+      "fa": "لطفاً اتاق کثیف را تمیز کن.",
+      "en": "Please clean the dirty room.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 177,
+      "fa": "آب کثیف خطرناک است.",
+      "en": "Dirty water is dangerous.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 178,
+      "fa": "ماشین کثیف شد.",
+      "en": "The car became dirty.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 179,
+      "fa": "لباس کثیف نپوش.",
+      "en": "Do not wear dirty clothes.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 180,
+      "fa": "یک مکان کثیف می‌تواند مردم را بیمار کند.",
+      "en": "A dirty place can make people sick.",
+      "category": "📘 dirty",
+      "lang": "en"
+    },
+    {
+      "id": 181,
+      "fa": "لیوان پر است.",
+      "en": "The glass is full.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 182,
+      "fa": "کیف من پر است.",
+      "en": "My bag is full.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 183,
+      "fa": "اتوبوس پر است.",
+      "en": "The bus is full.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 184,
+      "fa": "اتاق پر از مردم است.",
+      "en": "The room is full of people.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 185,
+      "fa": "قلبم پر از امید است.",
+      "en": "My heart is full of hope.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 475,
+      "fa": "بطری پر از آب است.",
+      "en": "The bottle is full of water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 187,
+      "fa": "امروز روز شلوغی بود.",
+      "en": "Today was a full day.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 188,
+      "fa": "پارکینگ پر است.",
+      "en": "The parking lot is full.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 189,
+      "fa": "کتاب پر از ایده‌های مفید است.",
+      "en": "The book is full of useful ideas.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 190,
+      "fa": "شکم پر به بهتر درس خواندن کمک می‌کند.",
+      "en": "A full stomach helps you study better.",
+      "category": "📘 full",
+      "lang": "en"
+    },
+    {
+      "id": 191,
+      "fa": "جعبه خالی است.",
+      "en": "The box is empty.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 192,
+      "fa": "فنجان من خالی است.",
+      "en": "My cup is empty.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 193,
+      "fa": "اتاق خالی است.",
+      "en": "The room is empty.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 194,
+      "fa": "خیابان خالی است.",
+      "en": "The street is empty.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 195,
+      "fa": "کیف من حالا خالی است.",
+      "en": "My bag is empty now.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 196,
+      "fa": "بطری خالی است.",
+      "en": "The bottle is empty.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 197,
+      "fa": "پارک امروز صبح خالی بود.",
+      "en": "The park was empty this morning.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 198,
+      "fa": "یک صفحه خالی منتظر ایده‌های جدید است.",
+      "en": "An empty page waits for new ideas.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 199,
+      "fa": "باکت را خالی نگذار.",
+      "en": "Do not leave your tank empty.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 200,
+      "fa": "ذهن خالی چیزی یاد نمی‌گیرد.",
+      "en": "An empty mind learns nothing.",
+      "category": "📘 empty",
+      "lang": "en"
+    },
+    {
+      "id": 201,
+      "fa": "او ثروتمند است.",
+      "en": "He is rich.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 202,
+      "fa": "او خانواده ثروتمندی دارد.",
+      "en": "She has a rich family.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 203,
+      "fa": "آن مرد ثروتمند است.",
+      "en": "That man is rich.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 204,
+      "fa": "یک فرد ثروتمند هنوز هم می‌تواند مهربان باشد.",
+      "en": "A rich person can still be kind.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 205,
+      "fa": "این کشور ثروتمند است.",
+      "en": "This country is rich.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 206,
+      "fa": "خاک غنی گیاهان خوبی پرورش می‌دهد.",
+      "en": "Rich soil grows good plants.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 207,
+      "fa": "دانش تو را ثروتمند می‌کند.",
+      "en": "Knowledge makes you rich.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 208,
+      "fa": "افراد ثروتمند هم مشکل دارند.",
+      "en": "Rich people also have problems.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 209,
+      "fa": "یک زندگی غنی فراتر از پول است.",
+      "en": "A rich life is more than money.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 210,
+      "fa": "کار سخت می‌تواند به تو کمک کند ثروتمند شوی.",
+      "en": "Hard work can help you become rich.",
+      "category": "📘 rich",
+      "lang": "en"
+    },
+    {
+      "id": 261,
+      "fa": "زود است.",
+      "en": "It is early.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 262,
+      "fa": "من زود بیدار شدم.",
+      "en": "I woke up early.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 263,
+      "fa": "او زود آمد.",
+      "en": "She came early.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 264,
+      "fa": "ما زود رسیدیم.",
+      "en": "We arrived early.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 265,
+      "fa": "سحرخیز باش تا موفق شوی.",
+      "en": "Early birds catch worms.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 266,
+      "fa": "زود بخواب.",
+      "en": "Go to bed early.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 267,
+      "fa": "او زود تمام کرد.",
+      "en": "He finished early.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 268,
+      "fa": "تمرین زودهنگام خیلی کمک می‌کند.",
+      "en": "Early practice helps a lot.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 269,
+      "fa": "امسال بهار زود آمد.",
+      "en": "Spring came early this year.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 270,
+      "fa": "زود شروع کردن موفقیت می‌آورد.",
+      "en": "Starting early brings success.",
+      "category": "📘 early",
+      "lang": "en"
+    },
+    {
+      "id": 271,
+      "fa": "دیر است.",
+      "en": "It is late.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 272,
+      "fa": "من دیر کرده‌ام.",
+      "en": "I am late.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 273,
+      "fa": "او دیر رسید.",
+      "en": "She arrived late.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 274,
+      "fa": "دیر نکن.",
+      "en": "Do not be late.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 275,
+      "fa": "اتوبوس دیر رسید.",
+      "en": "The bus was late.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 276,
+      "fa": "او دیر می‌خوابد.",
+      "en": "He sleeps late.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 277,
+      "fa": "حالا خیلی دیر شده است.",
+      "en": "It is too late now.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 278,
+      "fa": "تا دیروقت کار کردن خسته‌کننده است.",
+      "en": "Working late is tiring.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 279,
+      "fa": "ببخشید دیر کردم.",
+      "en": "Sorry I am late.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 280,
+      "fa": "دیر رسیدن بهتر از هرگز نرسیدن است.",
+      "en": "Better late than never.",
+      "category": "📘 late",
+      "lang": "en"
+    },
+    {
+      "id": 281,
+      "fa": "من اول هستم.",
+      "en": "I am first.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 282,
+      "fa": "او اول شد.",
+      "en": "She was first.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 283,
+      "fa": "صفحه اول را بخوان.",
+      "en": "Read the first page.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 284,
+      "fa": "این اولین شغل من است.",
+      "en": "This is my first job.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 285,
+      "fa": "اول دست‌هایت را بشوی.",
+      "en": "First, wash your hands.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 286,
+      "fa": "او اول تمام کرد.",
+      "en": "He finished first.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 287,
+      "fa": "ایمنی در اولویت است.",
+      "en": "Safety comes first.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 288,
+      "fa": "اولین معلمم مهربان بود.",
+      "en": "My first teacher was kind.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 289,
+      "fa": "این اولین بازدید من است.",
+      "en": "This is my first visit.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 290,
+      "fa": "همیشه اول فکر کن.",
+      "en": "Always think first.",
+      "category": "📘 first",
+      "lang": "en"
+    },
+    {
+      "id": 291,
+      "fa": "من آخر هستم.",
+      "en": "I am last.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 292,
+      "fa": "او آخر آمد.",
+      "en": "He came last.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 293,
+      "fa": "صفحه آخر را بخوان.",
+      "en": "Read the last page.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 294,
+      "fa": "دیشب سرد بود.",
+      "en": "Last night was cold.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 295,
+      "fa": "این آخرین فرصت من است.",
+      "en": "This is my last chance.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 296,
+      "fa": "او آخر تمام کرد.",
+      "en": "She finished last.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 297,
+      "fa": "آخرین اتوبوس رفت.",
+      "en": "The last bus left.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 298,
+      "fa": "سال گذشته شلوغ بود.",
+      "en": "Last year was busy.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 299,
+      "fa": "تا دقیقه آخر صبر نکن.",
+      "en": "Do not wait until the last minute.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 300,
+      "fa": "آخرین پاسخ درست بود.",
+      "en": "The last answer was correct.",
+      "category": "📘 last",
+      "lang": "en"
+    },
+    {
+      "id": 301,
+      "fa": "حق با توست.",
+      "en": "You are right.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 302,
+      "fa": "این پاسخ درست است.",
+      "en": "This is the right answer.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 303,
+      "fa": "به راست بپیچ.",
+      "en": "Turn right.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 304,
+      "fa": "او انتخاب درستی کرد.",
+      "en": "He made the right choice.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 305,
+      "fa": "آیا این درست است؟",
+      "en": "Is this right?",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 306,
+      "fa": "کار درستی انجام دادی.",
+      "en": "You did the right thing.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 307,
+      "fa": "همین حالا شروع به درس خواندن کن.",
+      "en": "Right now, start studying.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 308,
+      "fa": "جاده سمت راست امن است.",
+      "en": "The right road is safe.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 309,
+      "fa": "کتاب درست را انتخاب کن.",
+      "en": "Choose the right book.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 310,
+      "fa": "تمرین راه درست یادگیری است.",
+      "en": "Practice is the right way to learn.",
+      "category": "📘 right",
+      "lang": "en"
+    },
+    {
+      "id": 311,
+      "fa": "این اشتباه است.",
+      "en": "This is wrong.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 312,
+      "fa": "تو اشتباه می‌کنی.",
+      "en": "You are wrong.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 313,
+      "fa": "پاسخ اشتباه است.",
+      "en": "The answer is wrong.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 314,
+      "fa": "من سوار اتوبوس اشتباهی شدم.",
+      "en": "I took the wrong bus.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 315,
+      "fa": "او تصمیم اشتباهی گرفت.",
+      "en": "He made a wrong decision.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 316,
+      "fa": "پاسخ‌های اشتباه به ما کمک می‌کنند یاد بگیریم.",
+      "en": "Wrong answers help us learn.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 317,
+      "fa": "از مسیر اشتباه نرو.",
+      "en": "Do not go the wrong way.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 318,
+      "fa": "کلید اشتباه کار نمی‌کند.",
+      "en": "The wrong key does not work.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 319,
+      "fa": "همه گاهی انتخاب‌های اشتباه می‌کنند.",
+      "en": "Everyone makes wrong choices sometimes.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 320,
+      "fa": "از اشتباهاتت درس بگیر.",
+      "en": "Learn from your wrong mistakes.",
+      "category": "📘 wrong",
+      "lang": "en"
+    },
+    {
+      "id": 321,
+      "fa": "این حقیقت دارد.",
+      "en": "It is true.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 322,
+      "fa": "آن درست است.",
+      "en": "That is true.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 323,
+      "fa": "این داستان واقعی است.",
+      "en": "This story is true.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 324,
+      "fa": "آیا این درست است؟",
+      "en": "Is it true?",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 325,
+      "fa": "یک دوست واقعی به تو کمک می‌کند.",
+      "en": "A true friend helps you.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 326,
+      "fa": "حرف‌های او درست بود.",
+      "en": "His words were true.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 327,
+      "fa": "عشق واقعی است.",
+      "en": "Love is true.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 328,
+      "fa": "این خبر واقعی است.",
+      "en": "The news is true.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 329,
+      "fa": "با خودت صادق بمان.",
+      "en": "Stay true to yourself.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 330,
+      "fa": "یک لبخند واقعی از قلب می‌آید.",
+      "en": "A true smile comes from the heart.",
+      "category": "📘 true",
+      "lang": "en"
+    },
+    {
+      "id": 331,
+      "fa": "این نادرست است.",
+      "en": "It is false.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 332,
+      "fa": "پاسخ نادرست است.",
+      "en": "The answer is false.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 333,
+      "fa": "آن داستان واقعی نیست.",
+      "en": "That story is false.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 334,
+      "fa": "این اطلاعات نادرست است.",
+      "en": "This information is false.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 335,
+      "fa": "اخبار نادرست را باور نکن.",
+      "en": "Do not believe false news.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 336,
+      "fa": "یک هشدار اشتباه همه را ترساند.",
+      "en": "A false alarm scared everyone.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 337,
+      "fa": "اظهار او نادرست بود.",
+      "en": "His statement was false.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 338,
+      "fa": "اطلاعات نادرست سریع پخش می‌شود.",
+      "en": "False information spreads fast.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 339,
+      "fa": "بررسی کن که درست است یا نادرست.",
+      "en": "Check if it is true or false.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 340,
+      "fa": "هرگز اطلاعات نادرست منتشر نکن.",
+      "en": "Never share false information.",
+      "category": "📘 false",
+      "lang": "en"
+    },
+    {
+      "id": 341,
+      "fa": "او دوست من است.",
+      "en": "He is my friend.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 342,
+      "fa": "او دوست خوبی است.",
+      "en": "She is a good friend.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 343,
+      "fa": "دوست من خوشحال است.",
+      "en": "My friend is happy.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 344,
+      "fa": "امروز دوستم را دیدم.",
+      "en": "I met my friend today.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 345,
+      "fa": "یک دوست واقعی مهربان است.",
+      "en": "A true friend is kind.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 346,
+      "fa": "دوستم به من در درس خواندن کمک می‌کند.",
+      "en": "My friend helps me study.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 347,
+      "fa": "ما بهترین دوستان هستیم.",
+      "en": "We are best friends.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 348,
+      "fa": "یک دوست خوب هرگز تو را ترک نمی‌کند.",
+      "en": "A good friend never leaves you.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 349,
+      "fa": "دوست قدیمی‌ام با من تماس گرفت.",
+      "en": "My old friend called me.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 350,
+      "fa": "دوست زندگی را زیباتر می‌کند.",
+      "en": "A friend makes life beautiful.",
+      "category": "📘 friend",
+      "lang": "en"
+    },
+    {
+      "id": 351,
+      "fa": "او دشمن من است.",
+      "en": "He is my enemy.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 352,
+      "fa": "دشمن نشو.",
+      "en": "Do not become an enemy.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 353,
+      "fa": "دشمن دور است.",
+      "en": "The enemy is far away.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 354,
+      "fa": "یک دشمن می‌تواند به دوست تبدیل شود.",
+      "en": "An enemy can become a friend.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 355,
+      "fa": "او دشمنش را شکست داد.",
+      "en": "He defeated his enemy.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 356,
+      "fa": "از دشمنت متنفر نباش.",
+      "en": "Do not hate your enemy.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 357,
+      "fa": "یک فرد دانا دشمن را درک می‌کند.",
+      "en": "A wise person understands an enemy.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 358,
+      "fa": "دشمن قدیمی برگشت.",
+      "en": "The old enemy returned.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 359,
+      "fa": "صحبت کردن بهتر از جنگیدن با دشمن است.",
+      "en": "Talking is better than fighting an enemy.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 360,
+      "fa": "مهربانی می‌تواند دشمن را تغییر دهد.",
+      "en": "Kindness can change an enemy.",
+      "category": "📘 enemy",
+      "lang": "en"
+    },
+    {
+      "id": 361,
+      "fa": "این خانواده من است.",
+      "en": "This is my family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 362,
+      "fa": "من خانواده‌ام را دوست دارم.",
+      "en": "I love my family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 363,
+      "fa": "خانواده من خوشحال است.",
+      "en": "My family is happy.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 364,
+      "fa": "ما یک خانواده بزرگ هستیم.",
+      "en": "We are a big family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 365,
+      "fa": "خانواده من اینجا زندگی می‌کنند.",
+      "en": "My family lives here.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 366,
+      "fa": "خانواده در اولویت است.",
+      "en": "Family comes first.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 367,
+      "fa": "من با خانواده‌ام شام خوردم.",
+      "en": "I had dinner with my family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 368,
+      "fa": "خانواده‌ام از من حمایت می‌کنند.",
+      "en": "My family supports me.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 369,
+      "fa": "یک خانواده قوی به تو امید می‌دهد.",
+      "en": "A strong family gives you hope.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 370,
+      "fa": "وقت گذراندن با خانواده ارزشمند است.",
+      "en": "Time with family is precious.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 371,
+      "fa": "پسر خوشحال است.",
+      "en": "The boy is happy.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 372,
+      "fa": "پسر جوان است.",
+      "en": "The boy is young.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 373,
+      "fa": "یک پسر در حال کتاب خواندن است.",
+      "en": "A boy is reading.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 374,
+      "fa": "پسر سریع می‌دود.",
+      "en": "The boy runs fast.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 375,
+      "fa": "آن پسر دوست من است.",
+      "en": "That boy is my friend.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 376,
+      "fa": "پسر یک کیف جدید دارد.",
+      "en": "The boy has a new bag.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 377,
+      "fa": "یک پسر خوب به دیگران کمک می‌کند.",
+      "en": "A good boy helps others.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 378,
+      "fa": "پسر هر روز درس می‌خواند.",
+      "en": "The boy studies every day.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 379,
+      "fa": "پسر می‌خواهد پزشک شود.",
+      "en": "The boy wants to be a doctor.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 380,
+      "fa": "هر پسری یک رویا دارد.",
+      "en": "Every boy has a dream.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 381,
+      "fa": "دختر مهربان است.",
+      "en": "The girl is kind.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 382,
+      "fa": "دختر خوشحال است.",
+      "en": "The girl is happy.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 383,
+      "fa": "یک دختر در حال آواز خواندن است.",
+      "en": "A girl is singing.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 384,
+      "fa": "دختر لبخند زیبایی دارد.",
+      "en": "The girl has a beautiful smile.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 385,
+      "fa": "آن دختر خواهر من است.",
+      "en": "That girl is my sister.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 386,
+      "fa": "دختر سخت درس می‌خواند.",
+      "en": "The girl studies hard.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 387,
+      "fa": "یک دختر جوان به من کمک کرد.",
+      "en": "A young girl helped me.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 388,
+      "fa": "دختر کتاب‌ها را دوست دارد.",
+      "en": "The girl likes books.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 389,
+      "fa": "او دختر باهوشی است.",
+      "en": "She is a smart girl.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 390,
+      "fa": "هر دختری شایسته احترام است.",
+      "en": "Every girl deserves respect.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 391,
+      "fa": "آن مرد قدبلند است.",
+      "en": "The man is tall.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 392,
+      "fa": "آن مرد ثروتمند است.",
+      "en": "The man is rich.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 393,
+      "fa": "یک مرد منتظر است.",
+      "en": "A man is waiting.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 394,
+      "fa": "آن مرد سخت کار می‌کند.",
+      "en": "The man works hard.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 395,
+      "fa": "آن مرد معلم من است.",
+      "en": "That man is my teacher.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 396,
+      "fa": "آن مرد ماشین می‌راند.",
+      "en": "The man drives a car.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 397,
+      "fa": "یک مرد خوب به مردم کمک می‌کند.",
+      "en": "A good man helps people.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 398,
+      "fa": "آن مرد نزدیک اینجا زندگی می‌کند.",
+      "en": "The man lives near here.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 399,
+      "fa": "آن مرد خانواده بزرگی دارد.",
+      "en": "The man has a big family.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 400,
+      "fa": "هر مردی باید صادق باشد.",
+      "en": "Every man should be honest.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 401,
+      "fa": "آن زن مهربان است.",
+      "en": "The woman is kind.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 402,
+      "fa": "آن زن پزشک است.",
+      "en": "The woman is a doctor.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 403,
+      "fa": "یک زن در حال مطالعه است.",
+      "en": "A woman is reading.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 404,
+      "fa": "آن زن صدای زیبایی دارد.",
+      "en": "The woman has a beautiful voice.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 405,
+      "fa": "آن زن مادر من است.",
+      "en": "That woman is my mother.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 406,
+      "fa": "آن زن در یک بیمارستان کار می‌کند.",
+      "en": "The woman works in a hospital.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 407,
+      "fa": "یک زن قوی الهام‌بخش دیگران است.",
+      "en": "A strong woman inspires others.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 408,
+      "fa": "آن زن هر صبح لبخند می‌زند.",
+      "en": "The woman smiles every morning.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 409,
+      "fa": "آن زن به کودکان آموزش می‌دهد.",
+      "en": "The woman teaches children.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 410,
+      "fa": "هر زنی شایسته احترام است.",
+      "en": "Every woman deserves respect.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 411,
+      "fa": "کودک خوشحال است.",
+      "en": "The child is happy.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 412,
+      "fa": "کودک در حال بازی است.",
+      "en": "The child is playing.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 413,
+      "fa": "یک کودک در حال خواندن کتاب است.",
+      "en": "A child is reading a book.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 414,
+      "fa": "کودک کنار خانواده است.",
+      "en": "The child is with the family.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 415,
+      "fa": "هر کودکی به محبت نیاز دارد.",
+      "en": "Every child needs love.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 416,
+      "fa": "کودک سریع یاد می‌گیرد.",
+      "en": "The child learns fast.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 417,
+      "fa": "یک کودک خوب به دیگران کمک می‌کند.",
+      "en": "A good child helps others.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 418,
+      "fa": "کودک هر روز به مدرسه می‌رود.",
+      "en": "The child goes to school every day.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 419,
+      "fa": "کودک یک اسباب‌بازی جدید می‌خواهد.",
+      "en": "The child wants a new toy.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 420,
+      "fa": "هر کودکی یک رویا دارد.",
+      "en": "Every child has a dream.",
+      "category": "📘 child",
+      "lang": "en"
+    },
+    {
+      "id": 421,
+      "fa": "این خانه من است.",
+      "en": "This is my house.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 422,
+      "fa": "خانه من بزرگ است.",
+      "en": "My house is big.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 423,
+      "fa": "خانه تمیز است.",
+      "en": "The house is clean.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 425,
+      "fa": "خانه یک باغ زیبا دارد.",
+      "en": "The house has a beautiful garden.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 426,
+      "fa": "خانواده‌ام داخل خانه هستند.",
+      "en": "My family is in the house.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 427,
+      "fa": "خانه جدید نزدیک پارک است.",
+      "en": "The new house is near the park.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 428,
+      "fa": "می‌خواهم یک خانه جدید بخرم.",
+      "en": "I want to buy a new house.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 429,
+      "fa": "یک خانه با عشق به یک منزل واقعی تبدیل می‌شود.",
+      "en": "A house becomes a home with love.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 430,
+      "fa": "خانه ما همیشه پر از شادی است.",
+      "en": "Our house is always full of happiness.",
+      "category": "📘 house",
+      "lang": "en"
+    },
+    {
+      "id": 431,
+      "fa": "این مدرسه من است.",
+      "en": "This is my school.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 432,
+      "fa": "مدرسه من نزدیک خانه‌ام است.",
+      "en": "My school is near my house.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 433,
+      "fa": "مدرسه بزرگ است.",
+      "en": "The school is big.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 434,
+      "fa": "من هر صبح به مدرسه می‌روم.",
+      "en": "I go to school every morning.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 435,
+      "fa": "مدرسه دانش‌آموزان زیادی دارد.",
+      "en": "The school has many students.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 436,
+      "fa": "مدرسه من تمیز و امن است.",
+      "en": "My school is clean and safe.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 437,
+      "fa": "ما در مدرسه چیزهای جدید یاد می‌گیریم.",
+      "en": "We learn new things at school.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 438,
+      "fa": "معلم در مدرسه است.",
+      "en": "The teacher is at school.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 439,
+      "fa": "مدرسه به کودکان کمک می‌کند آینده بهتری بسازند.",
+      "en": "School helps children build a better future.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 440,
+      "fa": "هر مدرسه‌ای به معلمان خوب نیاز دارد.",
+      "en": "Every school needs good teachers.",
+      "category": "📘 school",
+      "lang": "en"
+    },
+    {
+      "id": 441,
+      "fa": "این یک کتاب است.",
+      "en": "This is a book.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 442,
+      "fa": "کتاب جدید است.",
+      "en": "The book is new.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 443,
+      "fa": "من این کتاب را دوست دارم.",
+      "en": "I like this book.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 444,
+      "fa": "او هر شب یک کتاب می‌خواند.",
+      "en": "She reads a book every night.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 445,
+      "fa": "خواندن این کتاب آسان است.",
+      "en": "This book is easy to read.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 446,
+      "fa": "یک کتاب خوب چیزهای زیادی یاد می‌دهد.",
+      "en": "A good book teaches many things.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 447,
+      "fa": "کتاب روی میز است.",
+      "en": "The book is on the table.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 448,
+      "fa": "کتاب خواندن تو را باهوش‌تر می‌کند.",
+      "en": "Reading books makes you smarter.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 449,
+      "fa": "دیروز یک کتاب زیبا خریدم.",
+      "en": "I bought a beautiful book yesterday.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 450,
+      "fa": "هر کتاب داستان متفاوتی را تعریف می‌کند.",
+      "en": "Every book tells a different story.",
+      "category": "📘 book",
+      "lang": "en"
+    },
+    {
+      "id": 451,
+      "fa": "این ماشین من است.",
+      "en": "This is my car.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 452,
+      "fa": "ماشین من سریع است.",
+      "en": "My car is fast.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 453,
+      "fa": "ماشین جدید است.",
+      "en": "The car is new.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 454,
+      "fa": "او یک ماشین بزرگ می‌راند.",
+      "en": "He drives a big car.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 455,
+      "fa": "ماشین تمیز است.",
+      "en": "The car is clean.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 456,
+      "fa": "ما با ماشین سفر می‌کنیم.",
+      "en": "We travel by car.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 457,
+      "fa": "پدرم یک ماشین جدید خرید.",
+      "en": "My father bought a new car.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 458,
+      "fa": "ماشین نزدیک خانه پارک شده است.",
+      "en": "The car is parked near the house.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 459,
+      "fa": "رانندگی با دقت همه را ایمن نگه می‌دارد.",
+      "en": "Driving carefully keeps everyone safe.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 460,
+      "fa": "یک ماشین خوب به مراقبت منظم نیاز دارد.",
+      "en": "A good car needs regular care.",
+      "category": "📘 car",
+      "lang": "en"
+    },
+    {
+      "id": 461,
+      "fa": "این غذا خوب است.",
+      "en": "This food is good.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 462,
+      "fa": "من این غذا را دوست دارم.",
+      "en": "I like this food.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 463,
+      "fa": "غذا داغ است.",
+      "en": "The food is hot.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 464,
+      "fa": "ما هر روز به غذا نیاز داریم.",
+      "en": "We need food every day.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 465,
+      "fa": "غذا بوی خوبی می‌دهد.",
+      "en": "The food smells good.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 466,
+      "fa": "غذای سالم انرژی می‌دهد.",
+      "en": "Healthy food gives energy.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 467,
+      "fa": "رستوران غذای خوشمزه دارد.",
+      "en": "The restaurant has delicious food.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 468,
+      "fa": "غذای خوب مردم را خوشحال می‌کند.",
+      "en": "Good food makes people happy.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 469,
+      "fa": "غذا را هدر نده.",
+      "en": "Do not waste food.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 470,
+      "fa": "غذای تازه برای سلامتی بهتر است.",
+      "en": "Fresh food is better for your health.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 471,
+      "fa": "من آب می‌نوشم.",
+      "en": "I drink water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 473,
+      "fa": "ما به آب نیاز داریم.",
+      "en": "We need water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 474,
+      "fa": "لطفاً کمی آب به من بده.",
+      "en": "Please give me some water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 476,
+      "fa": "آب سرد حس خوبی دارد.",
+      "en": "Cold water feels good.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 477,
+      "fa": "هر روز آب کافی بنوش.",
+      "en": "Drink enough water every day.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 478,
+      "fa": "آب تمیز مهم است.",
+      "en": "Clean water is important.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 479,
+      "fa": "کودک آب می‌نوشد.",
+      "en": "The child drinks water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 480,
+      "fa": "آب به همه موجودات زنده زندگی می‌بخشد.",
+      "en": "Water gives life to every living thing.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 481,
+      "fa": "من پول دارم.",
+      "en": "I have money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 482,
+      "fa": "او به پول نیاز دارد.",
+      "en": "She needs money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 483,
+      "fa": "پول داخل کیف من است.",
+      "en": "Money is in my bag.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 484,
+      "fa": "پول را هدر نده.",
+      "en": "Do not waste money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 485,
+      "fa": "او پولش را پس‌انداز کرد.",
+      "en": "He saved his money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 486,
+      "fa": "پول نمی‌تواند خوشبختی بخرد.",
+      "en": "Money cannot buy happiness.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 487,
+      "fa": "برای به دست آوردن پول سخت کار کن.",
+      "en": "Work hard to earn money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 488,
+      "fa": "پولت را در جای امن نگه دار.",
+      "en": "Keep your money safe.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 489,
+      "fa": "او تمام پولش را خرج کرد.",
+      "en": "She spent all her money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 490,
+      "fa": "برنامه‌ریزی خوب به تو کمک می‌کند پول پس‌انداز کنی.",
+      "en": "Good planning helps you save money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 491,
+      "fa": "ساعت چند است؟",
+      "en": "What time is it?",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 492,
+      "fa": "من وقت دارم.",
+      "en": "I have time.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 493,
+      "fa": "زمان مهم است.",
+      "en": "Time is important.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 494,
+      "fa": "ما وقت زیادی نداریم.",
+      "en": "We do not have much time.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 495,
+      "fa": "زمان سریع می‌گذرد.",
+      "en": "Time goes fast.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 496,
+      "fa": "وقتت را هدر نده.",
+      "en": "Do not waste your time.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 497,
+      "fa": "هر بار یک فرصت تازه است.",
+      "en": "Every time is a new chance.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 498,
+      "fa": "زمان به ما کمک می‌کند یاد بگیریم.",
+      "en": "Time helps us learn.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 499,
+      "fa": "استفاده خوب از زمان موفقیت می‌آورد.",
+      "en": "Good use of time brings success.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 500,
+      "fa": "زمان از پول ارزشمندتر است.",
+      "en": "Time is more valuable than money.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 502,
+      "fa": "روز خوبی داشته باش.",
+      "en": "Have a nice day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 503,
+      "fa": "هر روز متفاوت است.",
+      "en": "Every day is different.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 504,
+      "fa": "من هر روز درس می‌خوانم.",
+      "en": "I study every day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 505,
+      "fa": "روز آفتابی است.",
+      "en": "The day is sunny.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 506,
+      "fa": "ما در طول روز کار می‌کنیم.",
+      "en": "We work during the day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 507,
+      "fa": "یک روز جدید آغاز می‌شود.",
+      "en": "A new day begins.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 508,
+      "fa": "من هر روز انگلیسی یاد می‌گیرم.",
+      "en": "Every day I learn English.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 509,
+      "fa": "یک روز رویایت به حقیقت می‌پیوندد.",
+      "en": "One day your dream will come true.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 510,
+      "fa": "هر روز را ارزشمند کن.",
+      "en": "Make every day meaningful.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 511,
+      "fa": "شب است.",
+      "en": "It is night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 512,
+      "fa": "شب بخیر.",
+      "en": "Good night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 513,
+      "fa": "شب آرام است.",
+      "en": "The night is quiet.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 514,
+      "fa": "من شب‌ها می‌خوابم.",
+      "en": "I sleep at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 515,
+      "fa": "ستاره‌ها شب می‌درخشند.",
+      "en": "The stars shine at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 516,
+      "fa": "ما شب قدم زدیم.",
+      "en": "We walked at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 517,
+      "fa": "شب سرد بود.",
+      "en": "The night was cold.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 518,
+      "fa": "من شب‌ها کتاب خواندن را دوست دارم.",
+      "en": "I like reading at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 519,
+      "fa": "هر شب انگلیسی می‌خوانم.",
+      "en": "Every night I study English.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 520,
+      "fa": "یک شب آرام خواب خوبی می‌آورد.",
+      "en": "A peaceful night brings good sleep.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 521,
+      "fa": "صبح بخیر.",
+      "en": "Good morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 522,
+      "fa": "صبح زیباست.",
+      "en": "The morning is beautiful.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 523,
+      "fa": "من هر صبح زود بیدار می‌شوم.",
+      "en": "I wake up early every morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 524,
+      "fa": "قهوه صبح به من انرژی می‌دهد.",
+      "en": "Morning coffee gives me energy.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 525,
+      "fa": "ما هر صبح پیاده‌روی می‌کنیم.",
+      "en": "We walk every morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 526,
+      "fa": "هوای صبح تازه است.",
+      "en": "The air is fresh in the morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 527,
+      "fa": "هر صبح یک شروع تازه است.",
+      "en": "Every morning is a new beginning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 528,
+      "fa": "او صبح‌ها درس می‌خواند.",
+      "en": "She studies in the morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 529,
+      "fa": "ورزش صبحگاهی سالم است.",
+      "en": "Morning exercise is healthy.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 530,
+      "fa": "یک صبح خوب با لبخند شروع می‌شود.",
+      "en": "A good morning starts with a smile.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 531,
+      "fa": "عصر بخیر.",
+      "en": "Good afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 532,
+      "fa": "بعدازظهر گرم است.",
+      "en": "The afternoon is warm.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 533,
+      "fa": "من هر بعدازظهر کار می‌کنم.",
+      "en": "I work every afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 534,
+      "fa": "ما بعدازظهر همدیگر را دیدیم.",
+      "en": "We met in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 535,
+      "fa": "بعدازظهر سریع گذشت.",
+      "en": "The afternoon passed quickly.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 536,
+      "fa": "او بعدازظهر چای می‌نوشد.",
+      "en": "She drinks tea in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 537,
+      "fa": "من بعدازظهر درس می‌خوانم.",
+      "en": "I study in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 538,
+      "fa": "پارک بعدازظهر شلوغ است.",
+      "en": "The park is busy in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 539,
+      "fa": "یک استراحت کوتاه در بعدازظهر کمک می‌کند.",
+      "en": "A short rest helps in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 540,
+      "fa": "هر بعدازظهر انگلیسی تمرین می‌کنم.",
+      "en": "Every afternoon I practice English.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 541,
+      "fa": "عصر بخیر.",
+      "en": "Good evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 542,
+      "fa": "عصر آرام است.",
+      "en": "The evening is calm.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 543,
+      "fa": "ما عصرها تلویزیون تماشا می‌کنیم.",
+      "en": "We watch TV in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 544,
+      "fa": "من هر عصر کتاب می‌خوانم.",
+      "en": "I read books every evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 545,
+      "fa": "آسمان عصر زیباست.",
+      "en": "The evening sky is beautiful.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 546,
+      "fa": "او عصرها آشپزی می‌کند.",
+      "en": "She cooks in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 547,
+      "fa": "پیاده‌روی عصرگاهی آرامش‌بخش است.",
+      "en": "Evening walks are relaxing.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 548,
+      "fa": "ما عصر شام خوردیم.",
+      "en": "We had dinner in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 549,
+      "fa": "من عصر کارم را تمام می‌کنم.",
+      "en": "I finish my work in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 550,
+      "fa": "یک عصر آرام مرا خوشحال می‌کند.",
+      "en": "A peaceful evening makes me happy.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 551,
+      "fa": "این دست من است.",
+      "en": "This is my hand.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 552,
+      "fa": "دست‌هایم تمیز هستند.",
+      "en": "My hands are clean.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 553,
+      "fa": "دستت را بالا ببر.",
+      "en": "Raise your hand.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 554,
+      "fa": "دست‌هایت را بشوی.",
+      "en": "Wash your hands.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 555,
+      "fa": "دست او قوی است.",
+      "en": "His hand is strong.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 556,
+      "fa": "او دستم را گرفت.",
+      "en": "She held my hand.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 557,
+      "fa": "دیروز دستم آسیب دید.",
+      "en": "I hurt my hand yesterday.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 558,
+      "fa": "دست یاری‌رسان ارزشمند است.",
+      "en": "A helping hand is valuable.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 559,
+      "fa": "با دقت از دستت استفاده کن.",
+      "en": "Use your hand carefully.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 560,
+      "fa": "همکاری کار را آسان‌تر می‌کند.",
+      "en": "Many hands make work easier.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 561,
+      "fa": "این پای من است.",
+      "en": "This is my foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 562,
+      "fa": "پایم درد می‌کند.",
+      "en": "My foot hurts.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 563,
+      "fa": "پاهایت را بشوی.",
+      "en": "Wash your feet.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 564,
+      "fa": "او پایش را آسیب زد.",
+      "en": "He hurt his foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 565,
+      "fa": "پایم سرد است.",
+      "en": "My foot is cold.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 566,
+      "fa": "او پایم را لمس کرد.",
+      "en": "She touched my foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 567,
+      "fa": "روی یک پا می‌ایستم.",
+      "en": "I stand on one foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 568,
+      "fa": "کفش خوب از پاهایت محافظت می‌کند.",
+      "en": "Good shoes protect your feet.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 569,
+      "fa": "پای چپم بزرگ‌تر است.",
+      "en": "My left foot is bigger.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 570,
+      "fa": "از پاهایت مراقبت کن.",
+      "en": "Take care of your feet.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 571,
+      "fa": "این سر من است.",
+      "en": "This is my head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 572,
+      "fa": "سرم درد می‌کند.",
+      "en": "My head hurts.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 573,
+      "fa": "سرت را لمس کن.",
+      "en": "Touch your head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 574,
+      "fa": "او سرش را تکان داد.",
+      "en": "He nodded his head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 575,
+      "fa": "او ذهن باهوشی دارد.",
+      "en": "She has a smart head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 576,
+      "fa": "سرت را بالا نگه دار.",
+      "en": "Keep your head up.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 577,
+      "fa": "سرم سنگین است.",
+      "en": "My head feels heavy.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 578,
+      "fa": "قبل از عمل کردن فکر کن.",
+      "en": "Use your head before acting.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 579,
+      "fa": "او سرش به جایی خورد.",
+      "en": "He hit his head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 580,
+      "fa": "آرامش به تصمیم‌های خوب کمک می‌کند.",
+      "en": "A cool head makes good decisions.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 581,
+      "fa": "این چشم من است.",
+      "en": "This is my eye.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 582,
+      "fa": "چشم‌هایم آبی هستند.",
+      "en": "My eyes are blue.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 583,
+      "fa": "چشم‌هایت را ببند.",
+      "en": "Close your eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 584,
+      "fa": "چشم‌هایت را باز کن.",
+      "en": "Open your eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 585,
+      "fa": "او چشم‌های زیبایی دارد.",
+      "en": "She has beautiful eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 586,
+      "fa": "چشمم درد می‌کند.",
+      "en": "My eye hurts.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 587,
+      "fa": "به چشمانم نگاه کن.",
+      "en": "Look into my eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 588,
+      "fa": "پزشک چشم‌هایم را معاینه کرد.",
+      "en": "The doctor checked my eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 589,
+      "fa": "از چشم‌هایت محافظت کن.",
+      "en": "Protect your eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 590,
+      "fa": "چشم‌هایت احساساتت را نشان می‌دهند.",
+      "en": "Your eyes show your feelings.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 591,
+      "fa": "این گوش من است.",
+      "en": "This is my ear.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 592,
+      "fa": "گوشم درد می‌کند.",
+      "en": "My ear hurts.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 593,
+      "fa": "من با گوش‌هایم می‌شنوم.",
+      "en": "I can hear with my ears.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 594,
+      "fa": "گوش‌های او بزرگ هستند.",
+      "en": "His ears are big.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 595,
+      "fa": "پزشک گوشم را معاینه کرد.",
+      "en": "The doctor checked my ear.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 596,
+      "fa": "با دقت گوش بده.",
+      "en": "Listen carefully with your ears.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 597,
+      "fa": "گوشم حالا خوب است.",
+      "en": "My ear is fine now.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 598,
+      "fa": "او در گوشم آرام صحبت کرد.",
+      "en": "She whispered in my ear.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 599,
+      "fa": "گوش‌هایت را تمیز نگه دار.",
+      "en": "Keep your ears clean.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 600,
+      "fa": "شنونده‌های خوب خوب گوش می‌دهند.",
+      "en": "Good listeners use their ears well.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 601,
+      "fa": "این بینی من است.",
+      "en": "This is my nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 602,
+      "fa": "بینی‌ام سرد است.",
+      "en": "My nose is cold.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 603,
+      "fa": "بینی‌ات را لمس کن.",
+      "en": "Touch your nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 604,
+      "fa": "بینی او بزرگ است.",
+      "en": "His nose is big.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 605,
+      "fa": "بینی‌ام درد می‌کند.",
+      "en": "My nose hurts.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 606,
+      "fa": "من با بینی‌ام بو می‌کنم.",
+      "en": "I can smell with my nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 607,
+      "fa": "گل بوی خوبی می‌دهد.",
+      "en": "The flower smells nice.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 608,
+      "fa": "بینی‌ام گرفته است.",
+      "en": "My nose is blocked.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 609,
+      "fa": "پزشک بینی‌ام را بررسی کرد.",
+      "en": "The doctor looked at my nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 610,
+      "fa": "از بینی‌ات مراقبت کن.",
+      "en": "Take care of your nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 611,
+      "fa": "این دهان من است.",
+      "en": "This is my mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 612,
+      "fa": "دهانت را باز کن.",
+      "en": "Open your mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 613,
+      "fa": "دهانت را ببند.",
+      "en": "Close your mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 614,
+      "fa": "دهانم خشک است.",
+      "en": "My mouth is dry.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 615,
+      "fa": "پزشک دهانم را معاینه کرد.",
+      "en": "The doctor checked my mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 616,
+      "fa": "بعد از غذا دهانت را بشوی.",
+      "en": "Wash your mouth after eating.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 617,
+      "fa": "امروز دهانم درد می‌کند.",
+      "en": "My mouth hurts today.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 618,
+      "fa": "غذا وارد دهان می‌شود.",
+      "en": "Food goes into the mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 619,
+      "fa": "واضح صحبت کن.",
+      "en": "Speak clearly with your mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 620,
+      "fa": "دهان سالم مهم است.",
+      "en": "A healthy mouth is important.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 621,
+      "fa": "این صورت من است.",
+      "en": "This is my face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 622,
+      "fa": "صورتت را بشوی.",
+      "en": "Wash your face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 623,
+      "fa": "صورت او زیباست.",
+      "en": "Her face is beautiful.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 624,
+      "fa": "صورت او خسته به نظر می‌رسد.",
+      "en": "His face looks tired.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 625,
+      "fa": "صورتم را لمس کردم.",
+      "en": "I touched my face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 626,
+      "fa": "نوزاد چهره شادی دارد.",
+      "en": "The baby has a happy face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 627,
+      "fa": "صورتم تمیز است.",
+      "en": "My face is clean.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 628,
+      "fa": "او با چهره‌ای شاد لبخند زد.",
+      "en": "She smiled with a bright face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 629,
+      "fa": "آب سرد صورتم را تازه کرد.",
+      "en": "Cold water refreshed my face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 630,
+      "fa": "چهره خندان مردم را خوشحال می‌کند.",
+      "en": "A smiling face makes people happy.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 631,
+      "fa": "قلبم قوی است.",
+      "en": "My heart is strong.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 632,
+      "fa": "قلب او مهربان است.",
+      "en": "Her heart is kind.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 633,
+      "fa": "قلبم تند می‌زند.",
+      "en": "My heart beats fast.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 796,
+      "fa": "پزشک قلبم را معاینه کرد.",
+      "en": "The doctor checked my heart.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 635,
+      "fa": "عشق از قلب می‌آید.",
+      "en": "Love comes from the heart.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 636,
+      "fa": "قلبم احساس شادی می‌کند.",
+      "en": "My heart feels happy.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 637,
+      "fa": "ورزش قلبت را سالم نگه می‌دارد.",
+      "en": "Exercise keeps your heart healthy.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 638,
+      "fa": "یک قلب مهربان بی‌قیمت است.",
+      "en": "A good heart is priceless.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 639,
+      "fa": "او از ته دل صحبت کرد.",
+      "en": "He spoke from his heart.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 640,
+      "fa": "با خرد از قلبت پیروی کن.",
+      "en": "Follow your heart wisely.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 641,
+      "fa": "این اتاق من است.",
+      "en": "This is my room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 642,
+      "fa": "اتاقم تمیز است.",
+      "en": "My room is clean.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 643,
+      "fa": "اتاق بزرگ است.",
+      "en": "The room is big.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 644,
+      "fa": "من در اتاقم می‌خوابم.",
+      "en": "I sleep in my room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 645,
+      "fa": "اتاق یک پنجره دارد.",
+      "en": "The room has a window.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 646,
+      "fa": "لطفاً اتاقت را تمیز کن.",
+      "en": "Please clean your room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 647,
+      "fa": "اتاقم پر از کتاب است.",
+      "en": "My room is full of books.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 648,
+      "fa": "دیروز اتاق را رنگ کردیم.",
+      "en": "We painted the room yesterday.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 649,
+      "fa": "اتاق آرام است.",
+      "en": "The room is quiet.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 650,
+      "fa": "همه در اتاق منتظر ماندند.",
+      "en": "Everyone waited in the room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 651,
+      "fa": "در را باز کن.",
+      "en": "Open the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 652,
+      "fa": "در را ببند.",
+      "en": "Close the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 653,
+      "fa": "در باز است.",
+      "en": "The door is open.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 654,
+      "fa": "در بسته است.",
+      "en": "The door is closed.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 655,
+      "fa": "کسی به در زد.",
+      "en": "Someone knocked on the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 656,
+      "fa": "در جدید است.",
+      "en": "The door is new.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 657,
+      "fa": "لطفاً در را قفل کن.",
+      "en": "Please lock the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 658,
+      "fa": "در ورودی آبی است.",
+      "en": "The front door is blue.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 659,
+      "fa": "او کنار در ایستاد.",
+      "en": "He stood by the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 660,
+      "fa": "همیشه در را آرام ببند.",
+      "en": "Always close the door quietly.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 661,
+      "fa": "پنجره را باز کن.",
+      "en": "Open the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 662,
+      "fa": "پنجره را ببند.",
+      "en": "Close the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 663,
+      "fa": "پنجره تمیز است.",
+      "en": "The window is clean.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 664,
+      "fa": "اتاق من یک پنجره بزرگ دارد.",
+      "en": "My room has a big window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 665,
+      "fa": "از پنجره بیرون را نگاه کردم.",
+      "en": "I looked out the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 666,
+      "fa": "پنجره باز است.",
+      "en": "The window is open.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 667,
+      "fa": "پنجره بسته است.",
+      "en": "The window is closed.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 668,
+      "fa": "نور خورشید از پنجره وارد می‌شود.",
+      "en": "Sunlight comes through the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 669,
+      "fa": "لطفاً پنجره را تمیز کن.",
+      "en": "Please clean the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 670,
+      "fa": "یک پنجره شکسته نیاز به تعمیر دارد.",
+      "en": "A broken window needs repair.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 671,
+      "fa": "این یک صندلی است.",
+      "en": "This is a chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 672,
+      "fa": "روی صندلی بنشین.",
+      "en": "Sit on the chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 673,
+      "fa": "صندلی راحت است.",
+      "en": "The chair is comfortable.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 674,
+      "fa": "صندلی جدید است.",
+      "en": "The chair is new.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 675,
+      "fa": "صندلی را جابه‌جا کن.",
+      "en": "Move the chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 676,
+      "fa": "صندلی نزدیک میز است.",
+      "en": "The chair is near the table.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 677,
+      "fa": "او یک صندلی چوبی خرید.",
+      "en": "He bought a wooden chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 678,
+      "fa": "لطفاً یک صندلی دیگر بیاور.",
+      "en": "Please bring another chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 679,
+      "fa": "صندلی قدیمی شکسته است.",
+      "en": "The old chair is broken.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 680,
+      "fa": "همه برای نشستن به یک صندلی نیاز دارند.",
+      "en": "Everyone needs a chair to sit.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 681,
+      "fa": "این یک میز است.",
+      "en": "This is a table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 682,
+      "fa": "میز تمیز است.",
+      "en": "The table is clean.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 683,
+      "fa": "کتاب را روی میز بگذار.",
+      "en": "Put the book on the table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 684,
+      "fa": "میز بزرگ است.",
+      "en": "The table is big.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 685,
+      "fa": "ما پشت میز غذا می‌خوریم.",
+      "en": "We eat at the table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 686,
+      "fa": "میز از چوب ساخته شده است.",
+      "en": "The table is made of wood.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 713,
+      "fa": "تلفنم روی میز است.",
+      "en": "My phone is on the table.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 688,
+      "fa": "لطفاً میز را تمیز کن.",
+      "en": "Please clean the table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 689,
+      "fa": "میز گرد زیبا به نظر می‌رسد.",
+      "en": "The round table looks beautiful.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 690,
+      "fa": "یک میز محکم سال‌ها دوام می‌آورد.",
+      "en": "A strong table lasts for years.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 691,
+      "fa": "این تخت من است.",
+      "en": "This is my bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 692,
+      "fa": "تخت من راحت است.",
+      "en": "My bed is comfortable.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 693,
+      "fa": "من روی تختم می‌خوابم.",
+      "en": "I sleep in my bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 694,
+      "fa": "تخت تمیز است.",
+      "en": "The bed is clean.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 695,
+      "fa": "هر صبح تختت را مرتب کن.",
+      "en": "Make your bed every morning.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 696,
+      "fa": "تخت نزدیک پنجره است.",
+      "en": "The bed is near the window.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 697,
+      "fa": "کودک روی تخت است.",
+      "en": "The child is on the bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 698,
+      "fa": "من یک تخت جدید خریدم.",
+      "en": "I bought a new bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 699,
+      "fa": "یک تخت نرم به خواب خوب کمک می‌کند.",
+      "en": "A soft bed helps you sleep well.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 700,
+      "fa": "تخت پر از بالش است.",
+      "en": "The bed is full of pillows.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 701,
+      "fa": "این کیف من است.",
+      "en": "This is my bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 702,
+      "fa": "کیف من سنگین است.",
+      "en": "My bag is heavy.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 703,
+      "fa": "کیف جدید است.",
+      "en": "The bag is new.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 704,
+      "fa": "کیفت را باز کن.",
+      "en": "Open your bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 705,
+      "fa": "کتابم داخل کیف است.",
+      "en": "My book is in the bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 706,
+      "fa": "او یک کیف مشکی حمل می‌کند.",
+      "en": "She carries a black bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 707,
+      "fa": "کیف روی صندلی است.",
+      "en": "The bag is on the chair.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 708,
+      "fa": "لطفاً کیفت را بیاور.",
+      "en": "Please bring your bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 709,
+      "fa": "این کیف پر از لباس است.",
+      "en": "This bag is full of clothes.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 710,
+      "fa": "یک کیف خوب از وسایلت محافظت می‌کند.",
+      "en": "A good bag protects your things.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 711,
+      "fa": "این تلفن من است.",
+      "en": "This is my phone.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 712,
+      "fa": "تلفن من جدید است.",
+      "en": "My phone is new.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 714,
+      "fa": "لطفاً تلفن را جواب بده.",
+      "en": "Please answer the phone.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 715,
+      "fa": "من هر روز از تلفنم استفاده می‌کنم.",
+      "en": "I use my phone every day.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 716,
+      "fa": "باتری تلفنم کم است.",
+      "en": "My phone battery is low.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 717,
+      "fa": "تلفنم را در خانه جا گذاشتم.",
+      "en": "I forgot my phone at home.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 718,
+      "fa": "این تلفن خیلی سریع است.",
+      "en": "This phone is very fast.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 719,
+      "fa": "تلفنم به من در یادگیری انگلیسی کمک می‌کند.",
+      "en": "My phone helps me learn English.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 720,
+      "fa": "لطفاً تلفنت را در جای امن نگه دار.",
+      "en": "Please keep your phone safe.",
+      "category": "📘 phone",
+      "lang": "en"
+    },
+    {
+      "id": 721,
+      "fa": "این یک کامپیوتر است.",
+      "en": "This is a computer.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 722,
+      "fa": "کامپیوتر من جدید است.",
+      "en": "My computer is new.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 723,
+      "fa": "کامپیوتر سریع است.",
+      "en": "The computer is fast.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 724,
+      "fa": "من در محل کار از کامپیوتر استفاده می‌کنم.",
+      "en": "I use a computer at work.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 725,
+      "fa": "کامپیوتر روی میز است.",
+      "en": "The computer is on the desk.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 726,
+      "fa": "لطفاً کامپیوتر را خاموش کن.",
+      "en": "Please turn off the computer.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 727,
+      "fa": "من با کامپیوترم انگلیسی یاد می‌گیرم.",
+      "en": "I learn English with my computer.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 728,
+      "fa": "کامپیوتر به من در درس خواندن کمک می‌کند.",
+      "en": "The computer helps me study.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 729,
+      "fa": "کامپیوترم به به‌روزرسانی نیاز دارد.",
+      "en": "My computer needs an update.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 730,
+      "fa": "یک کامپیوتر خوب در زمان صرفه‌جویی می‌کند.",
+      "en": "A good computer saves time.",
+      "category": "📘 computer",
+      "lang": "en"
+    },
+    {
+      "id": 731,
+      "fa": "این شهر من است.",
+      "en": "This is my city.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 732,
+      "fa": "شهر بزرگ است.",
+      "en": "The city is big.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 733,
+      "fa": "من در یک شهر زیبا زندگی می‌کنم.",
+      "en": "I live in a beautiful city.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 734,
+      "fa": "شهر پارک‌های زیادی دارد.",
+      "en": "The city has many parks.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 735,
+      "fa": "شهر شلوغ است.",
+      "en": "The city is busy.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 736,
+      "fa": "افراد زیادی در شهر زندگی می‌کنند.",
+      "en": "Many people live in the city.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 737,
+      "fa": "شهر تمیز و امن است.",
+      "en": "The city is clean and safe.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 738,
+      "fa": "دیروز از شهر بازدید کردیم.",
+      "en": "We visited the city yesterday.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 739,
+      "fa": "شهر در شب زیبا به نظر می‌رسد.",
+      "en": "The city looks beautiful at night.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 740,
+      "fa": "هر شهری داستان خودش را دارد.",
+      "en": "Every city has its own story.",
+      "category": "📘 city",
+      "lang": "en"
+    },
+    {
+      "id": 741,
+      "fa": "این کشور من است.",
+      "en": "This is my country.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 742,
+      "fa": "کشور من زیباست.",
+      "en": "My country is beautiful.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 743,
+      "fa": "من کشورم را دوست دارم.",
+      "en": "I love my country.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 744,
+      "fa": "کشور آرام است.",
+      "en": "The country is peaceful.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 745,
+      "fa": "افراد زیادی در سراسر کشور سفر می‌کنند.",
+      "en": "Many people travel across the country.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 746,
+      "fa": "کشور کوه‌های زیادی دارد.",
+      "en": "The country has many mountains.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 747,
+      "fa": "کشور ما سریع پیشرفت می‌کند.",
+      "en": "Our country is growing fast.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 748,
+      "fa": "کشور از بازدیدکنندگان استقبال می‌کند.",
+      "en": "The country welcomes visitors.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 749,
+      "fa": "می‌خواهم همه جای کشورم را ببینم.",
+      "en": "I want to see every part of my country.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 750,
+      "fa": "یک کشور قوی به مردم خوب نیاز دارد.",
+      "en": "A strong country needs good people.",
+      "category": "📘 country",
+      "lang": "en"
+    },
+    {
+      "id": 751,
+      "fa": "این جاده است.",
+      "en": "This is the road.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 752,
+      "fa": "جاده طولانی است.",
+      "en": "The road is long.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 753,
+      "fa": "جاده امن است.",
+      "en": "The road is safe.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 754,
+      "fa": "ما در جاده رانندگی می‌کنیم.",
+      "en": "We are driving on the road.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 755,
+      "fa": "امروز جاده شلوغ است.",
+      "en": "The road is busy today.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 756,
+      "fa": "این جاده به شهر می‌رسد.",
+      "en": "The road goes to the city.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 757,
+      "fa": "در جاده مراقب باش.",
+      "en": "Be careful on the road.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 758,
+      "fa": "جاده جدید خیلی عریض است.",
+      "en": "The new road is very wide.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 759,
+      "fa": "دیروز جاده بسته بود.",
+      "en": "The road was closed yesterday.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 760,
+      "fa": "یک جاده خوب سفر را آسان‌تر می‌کند.",
+      "en": "A good road makes travel easier.",
+      "category": "📘 road",
+      "lang": "en"
+    },
+    {
+      "id": 761,
+      "fa": "این خیابان من است.",
+      "en": "This is my street.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 762,
+      "fa": "خیابان شلوغ است.",
+      "en": "The street is busy.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 763,
+      "fa": "خیابان تمیز است.",
+      "en": "The street is clean.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 764,
+      "fa": "کودکان در خیابان بازی می‌کنند.",
+      "en": "Children are playing in the street.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 765,
+      "fa": "در خیابان ندو.",
+      "en": "Do not run across the street.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 766,
+      "fa": "خیابان نزدیک خانه من است.",
+      "en": "The street is near my house.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 767,
+      "fa": "ما در امتداد خیابان قدم زدیم.",
+      "en": "We walked along the street.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 768,
+      "fa": "چراغ‌های خیابان روشن هستند.",
+      "en": "The street lights are bright.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 769,
+      "fa": "در خیابان بعدی به چپ بپیچ.",
+      "en": "Turn left at the next street.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 770,
+      "fa": "یک خیابان آرام دلنشین است.",
+      "en": "A quiet street is peaceful.",
+      "category": "📘 street",
+      "lang": "en"
+    },
+    {
+      "id": 771,
+      "fa": "این یک پارک است.",
+      "en": "This is a park.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 772,
+      "fa": "پارک زیباست.",
+      "en": "The park is beautiful.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 773,
+      "fa": "ما در پارک قدم می‌زنیم.",
+      "en": "We walk in the park.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 774,
+      "fa": "کودکان در پارک بازی می‌کنند.",
+      "en": "Children play in the park.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 775,
+      "fa": "پارک نزدیک مدرسه من است.",
+      "en": "The park is near my school.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 776,
+      "fa": "من دوست دارم در پارک کتاب بخوانم.",
+      "en": "I like reading in the park.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 777,
+      "fa": "پارک درختان زیادی دارد.",
+      "en": "The park has many trees.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 778,
+      "fa": "ما در پارک پیک‌نیک داشتیم.",
+      "en": "We had a picnic in the park.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 779,
+      "fa": "پارک پر از گل است.",
+      "en": "The park is full of flowers.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 780,
+      "fa": "یک پارک تمیز مردم را خوشحال می‌کند.",
+      "en": "A clean park makes people happy.",
+      "category": "📘 park",
+      "lang": "en"
+    },
+    {
+      "id": 781,
+      "fa": "این یک بیمارستان است.",
+      "en": "This is a hospital.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 782,
+      "fa": "بیمارستان تمیز است.",
+      "en": "The hospital is clean.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 783,
+      "fa": "پدرم در بیمارستان است.",
+      "en": "My father is in the hospital.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 784,
+      "fa": "بیمارستان نزدیک خانه من است.",
+      "en": "The hospital is near my house.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 785,
+      "fa": "پزشکان در بیمارستان کار می‌کنند.",
+      "en": "Doctors work in the hospital.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 786,
+      "fa": "بیمارستان تمام روز باز است.",
+      "en": "The hospital is open all day.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 787,
+      "fa": "دیروز به بیمارستان رفتیم.",
+      "en": "We went to the hospital yesterday.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 788,
+      "fa": "بیمارستان جدید بسیار بزرگ است.",
+      "en": "The new hospital is very big.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 789,
+      "fa": "بیمارستان به افراد بیمار کمک می‌کند.",
+      "en": "The hospital helps sick people.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 790,
+      "fa": "یک بیمارستان خوب جان انسان‌ها را نجات می‌دهد.",
+      "en": "A good hospital saves lives.",
+      "category": "📘 hospital",
+      "lang": "en"
+    },
+    {
+      "id": 791,
+      "fa": "پزشک مهربان است.",
+      "en": "The doctor is kind.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 792,
+      "fa": "من به پزشک نیاز دارم.",
+      "en": "I need a doctor.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 793,
+      "fa": "پزشک به من کمک کرد.",
+      "en": "The doctor helped me.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 794,
+      "fa": "پزشک من خیلی خوب است.",
+      "en": "My doctor is very good.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 795,
+      "fa": "پزشک در بیمارستان کار می‌کند.",
+      "en": "The doctor works in a hospital.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 797,
+      "fa": "یک پزشک خوب با دقت گوش می‌دهد.",
+      "en": "A good doctor listens carefully.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 798,
+      "fa": "پزشک به من دارو داد.",
+      "en": "The doctor gave me medicine.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 799,
+      "fa": "امروز صبح به پزشک مراجعه کردم.",
+      "en": "I visited the doctor this morning.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 800,
+      "fa": "یک پزشک ماهر می‌تواند جان انسان‌ها را نجات دهد.",
+      "en": "A skilled doctor can save lives.",
+      "category": "📘 doctor",
+      "lang": "en"
+    },
+    {
+      "id": 801,
+      "fa": "معلم مهربان است.",
+      "en": "The teacher is kind.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 802,
+      "fa": "معلم من کمک‌کننده است.",
+      "en": "My teacher is helpful.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 803,
+      "fa": "معلم انگلیسی درس می‌دهد.",
+      "en": "The teacher teaches English.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 804,
+      "fa": "من معلمم را دوست دارم.",
+      "en": "I like my teacher.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 805,
+      "fa": "معلم در کلاس است.",
+      "en": "The teacher is in the classroom.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 806,
+      "fa": "یک معلم خوب واضح توضیح می‌دهد.",
+      "en": "A good teacher explains clearly.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 807,
+      "fa": "معلم به سؤال من پاسخ داد.",
+      "en": "The teacher answered my question.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 808,
+      "fa": "هر معلمی می‌خواهد دانش‌آموزان یاد بگیرند.",
+      "en": "Every teacher wants students to learn.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 809,
+      "fa": "معلم مورد علاقه‌ام به من انگیزه می‌دهد.",
+      "en": "My favorite teacher inspires me.",
+      "category": "📘 teacher",
+      "lang": "en"
+    },
+    {
+      "id": 810,
+      "fa": "یک معلم بزرگ زندگی‌ها را تغییر می‌دهد.",
+      "en": "A great teacher changes lives.",
+      "category": "📘 teacher",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

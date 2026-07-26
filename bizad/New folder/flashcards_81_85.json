@@ -1,0 +1,219 @@
+{
+  "flashcards": [
+    {
+      "id": 811,
+      "fa": "دانش‌آموز خوشحال است.",
+      "en": "The student is happy.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 812,
+      "fa": "من یک دانش‌آموز هستم.",
+      "en": "I am a student.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 813,
+      "fa": "دانش‌آموز هر روز درس می‌خواند.",
+      "en": "The student studies every day.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 814,
+      "fa": "یک دانش‌آموز خوب سؤال می‌پرسد.",
+      "en": "A good student asks questions.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 815,
+      "fa": "دانش‌آموز در کلاس است.",
+      "en": "The student is in the classroom.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 816,
+      "fa": "هر دانش‌آموزی به تمرین نیاز دارد.",
+      "en": "Every student needs practice.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 817,
+      "fa": "معلم از دانش‌آموز تعریف کرد.",
+      "en": "The teacher praised the student.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 818,
+      "fa": "دانش‌آموز در امتحان قبول شد.",
+      "en": "The student passed the exam.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 819,
+      "fa": "یک دانش‌آموز موفق هرگز یادگیری را متوقف نمی‌کند.",
+      "en": "A successful student never stops learning.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+    {
+      "id": 820,
+      "fa": "هر دانش‌آموزی توانایی پیشرفت دارد.",
+      "en": "Every student has the ability to improve.",
+      "category": "📘 student",
+      "lang": "en"
+    },
+
+    {
+      "id": 821,
+      "fa": "من یک شغل دارم.",
+      "en": "I have a job.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 822,
+      "fa": "شغل من جالب است.",
+      "en": "My job is interesting.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 823,
+      "fa": "او شغلش را دوست دارد.",
+      "en": "She loves her job.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 824,
+      "fa": "او یک شغل جدید پیدا کرد.",
+      "en": "He found a new job.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 825,
+      "fa": "این شغل سخت است.",
+      "en": "This job is hard.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 826,
+      "fa": "شغل من به مردم کمک می‌کند.",
+      "en": "My job helps people.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 827,
+      "fa": "من هر صبح به محل کارم می‌روم.",
+      "en": "I go to my job every morning.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 828,
+      "fa": "یک شغل خوب به مسئولیت‌پذیری نیاز دارد.",
+      "en": "A good job needs responsibility.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 829,
+      "fa": "او به دنبال شغل بهتری است.",
+      "en": "He is looking for a better job.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+    {
+      "id": 830,
+      "fa": "دوست داشتن شغلت کار را آسان‌تر می‌کند.",
+      "en": "Loving your job makes work easier.",
+      "category": "📘 job",
+      "lang": "en"
+    },
+
+    {
+      "id": 831,
+      "fa": "این اداره من است.",
+      "en": "This is my office.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 832,
+      "fa": "اداره من تمیز است.",
+      "en": "My office is clean.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 833,
+      "fa": "من در یک اداره کار می‌کنم.",
+      "en": "I work in an office.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 834,
+      "fa": "امروز اداره شلوغ است.",
+      "en": "The office is busy today.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 835,
+      "fa": "او زود به اداره رسید.",
+      "en": "She arrived at the office early.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 836,
+      "fa": "اداره کامپیوترهای زیادی دارد.",
+      "en": "The office has many computers.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 837,
+      "fa": "اداره من نزدیک پارک است.",
+      "en": "My office is near the park.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 838,
+      "fa": "همه در اداره دوستانه هستند.",
+      "en": "Everyone in the office is friendly.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 839,
+      "fa": "اداره ساعت پنج تعطیل می‌شود.",
+      "en": "The office closes at five.",
+      "category": "📘 office",
+      "lang": "en"
+    },
+    {
+      "id": 840,
+      "fa": "یک اداره آرام به افراد کمک می‌کند بهتر کار کنند.",
+      "en": "A quiet office helps people work better.",
+      "category": "📘 office",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

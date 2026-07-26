@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 511,
+      "fa": "شب است.",
+      "en": "It is night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 512,
+      "fa": "شب بخیر.",
+      "en": "Good night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 513,
+      "fa": "شب آرام است.",
+      "en": "The night is quiet.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 514,
+      "fa": "من شب‌ها می‌خوابم.",
+      "en": "I sleep at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 515,
+      "fa": "ستاره‌ها شب می‌درخشند.",
+      "en": "The stars shine at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 516,
+      "fa": "ما شب قدم زدیم.",
+      "en": "We walked at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 517,
+      "fa": "شب سرد بود.",
+      "en": "The night was cold.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 518,
+      "fa": "من شب‌ها کتاب خواندن را دوست دارم.",
+      "en": "I like reading at night.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 519,
+      "fa": "هر شب انگلیسی می‌خوانم.",
+      "en": "Every night I study English.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 520,
+      "fa": "یک شب آرام خواب خوبی می‌آورد.",
+      "en": "A peaceful night brings good sleep.",
+      "category": "📘 night",
+      "lang": "en"
+    },
+    {
+      "id": 521,
+      "fa": "صبح بخیر.",
+      "en": "Good morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 522,
+      "fa": "صبح زیباست.",
+      "en": "The morning is beautiful.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 523,
+      "fa": "من هر صبح زود بیدار می‌شوم.",
+      "en": "I wake up early every morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 524,
+      "fa": "قهوه صبح به من انرژی می‌دهد.",
+      "en": "Morning coffee gives me energy.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 525,
+      "fa": "ما هر صبح پیاده‌روی می‌کنیم.",
+      "en": "We walk every morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 526,
+      "fa": "هوای صبح تازه است.",
+      "en": "The air is fresh in the morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 527,
+      "fa": "هر صبح یک شروع تازه است.",
+      "en": "Every morning is a new beginning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 528,
+      "fa": "او صبح‌ها درس می‌خواند.",
+      "en": "She studies in the morning.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 529,
+      "fa": "ورزش صبحگاهی سالم است.",
+      "en": "Morning exercise is healthy.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 530,
+      "fa": "یک صبح خوب با لبخند شروع می‌شود.",
+      "en": "A good morning starts with a smile.",
+      "category": "📘 morning",
+      "lang": "en"
+    },
+    {
+      "id": 531,
+      "fa": "عصر بخیر.",
+      "en": "Good afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 532,
+      "fa": "بعدازظهر گرم است.",
+      "en": "The afternoon is warm.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 533,
+      "fa": "من هر بعدازظهر کار می‌کنم.",
+      "en": "I work every afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 534,
+      "fa": "ما بعدازظهر همدیگر را دیدیم.",
+      "en": "We met in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 535,
+      "fa": "بعدازظهر سریع گذشت.",
+      "en": "The afternoon passed quickly.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 536,
+      "fa": "او بعدازظهر چای می‌نوشد.",
+      "en": "She drinks tea in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 537,
+      "fa": "من بعدازظهر درس می‌خوانم.",
+      "en": "I study in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 538,
+      "fa": "پارک بعدازظهر شلوغ است.",
+      "en": "The park is busy in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 539,
+      "fa": "یک استراحت کوتاه در بعدازظهر کمک می‌کند.",
+      "en": "A short rest helps in the afternoon.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 540,
+      "fa": "هر بعدازظهر انگلیسی تمرین می‌کنم.",
+      "en": "Every afternoon I practice English.",
+      "category": "📘 afternoon",
+      "lang": "en"
+    },
+    {
+      "id": 541,
+      "fa": "عصر بخیر.",
+      "en": "Good evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 542,
+      "fa": "عصر آرام است.",
+      "en": "The evening is calm.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 543,
+      "fa": "ما عصرها تلویزیون تماشا می‌کنیم.",
+      "en": "We watch TV in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 544,
+      "fa": "من هر عصر کتاب می‌خوانم.",
+      "en": "I read books every evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 545,
+      "fa": "آسمان عصر زیباست.",
+      "en": "The evening sky is beautiful.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 546,
+      "fa": "او عصرها آشپزی می‌کند.",
+      "en": "She cooks in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 547,
+      "fa": "پیاده‌روی عصرگاهی آرامش‌بخش است.",
+      "en": "Evening walks are relaxing.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 548,
+      "fa": "ما عصر شام خوردیم.",
+      "en": "We had dinner in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 549,
+      "fa": "من عصر کارم را تمام می‌کنم.",
+      "en": "I finish my work in the evening.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 550,
+      "fa": "یک عصر آرام مرا خوشحال می‌کند.",
+      "en": "A peaceful evening makes me happy.",
+      "category": "📘 evening",
+      "lang": "en"
+    },
+    {
+      "id": 551,
+      "fa": "این دست من است.",
+      "en": "This is my hand.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 552,
+      "fa": "دست‌هایم تمیز هستند.",
+      "en": "My hands are clean.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 553,
+      "fa": "دستت را بالا ببر.",
+      "en": "Raise your hand.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 554,
+      "fa": "دست‌هایت را بشوی.",
+      "en": "Wash your hands.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 555,
+      "fa": "دست او قوی است.",
+      "en": "His hand is strong.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 556,
+      "fa": "او دستم را گرفت.",
+      "en": "She held my hand.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 557,
+      "fa": "دیروز دستم آسیب دید.",
+      "en": "I hurt my hand yesterday.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 558,
+      "fa": "دست یاری‌رسان ارزشمند است.",
+      "en": "A helping hand is valuable.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 559,
+      "fa": "با دقت از دستت استفاده کن.",
+      "en": "Use your hand carefully.",
+      "category": "📘 hand",
+      "lang": "en"
+    },
+    {
+      "id": 560,
+      "fa": "همکاری کار را آسان‌تر می‌کند.",
+      "en": "Many hands make work easier.",
+      "category": "📘 hand",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

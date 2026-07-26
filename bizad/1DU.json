@@ -1,0 +1,706 @@
+{
+"flashcards":[
+{
+"id":1,
+"fa":"خوب",
+"en":"gut",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":2,
+"fa":"بد",
+"en":"schlecht",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":3,
+"fa":"بزرگ",
+"en":"groß",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":4,
+"fa":"کوچک",
+"en":"klein",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":5,
+"fa":"خوشحال",
+"en":"glücklich",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":6,
+"fa":"غمگین",
+"en":"traurig",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":7,
+"fa":"آسان",
+"en":"einfach",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":8,
+"fa":"سخت",
+"en":"schwierig",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":9,
+"fa":"سریع",
+"en":"schnell",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":10,
+"fa":"آهسته",
+"en":"langsam",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":11,
+"fa":"جدید",
+"en":"neu",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":12,
+"fa":"قدیمی",
+"en":"alt",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":13,
+"fa":"جوان",
+"en":"jung",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":14,
+"fa":"زیبا",
+"en":"schön",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":15,
+"fa":"زشت",
+"en":"hässlich",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":16,
+"fa":"تمیز",
+"en":"sauber",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":17,
+"fa":"کثیف",
+"en":"schmutzig",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":18,
+"fa":"پر",
+"en":"voll",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":19,
+"fa":"خالی",
+"en":"leer",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":20,
+"fa":"ثروتمند",
+"en":"reich",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":21,
+"fa":"فقیر",
+"en":"arm",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":22,
+"fa":"امن",
+"en":"sicher",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":23,
+"fa":"خطرناک",
+"en":"gefährlich",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":24,
+"fa":"نزدیک",
+"en":"nah",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":25,
+"fa":"دور",
+"en":"weit",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":26,
+"fa":"زود",
+"en":"früh",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":27,
+"fa":"دیر",
+"en":"spät",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":28,
+"fa":"اول",
+"en":"erst",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":29,
+"fa":"آخر",
+"en":"letzt",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":30,
+"fa":"درست",
+"en":"richtig",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":31,
+"fa":"اشتباه",
+"en":"falsch",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":32,
+"fa":"واقعی",
+"en":"echt",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":33,
+"fa":"نادرست",
+"en":"falsch",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":34,
+"fa":"دوست",
+"en":"Freund",
+"category":"👨‍👩‍👧 خانواده",
+"lang":"de"
+},
+{
+"id":35,
+"fa":"دشمن",
+"en":"Feind",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":36,
+"fa":"خانواده",
+"en":"Familie",
+"category":"👨‍👩‍👧 خانواده",
+"lang":"de"
+},
+{
+"id":37,
+"fa":"پسر",
+"en":"Junge",
+"category":"👨‍👩‍👧 خانواده",
+"lang":"de"
+},
+{
+"id":38,
+"fa":"دختر",
+"en":"Mädchen",
+"category":"👨‍👩‍👧 خانواده",
+"lang":"de"
+},
+{
+"id":39,
+"fa":"مرد",
+"en":"Mann",
+"category":"👨‍👩‍👧 خانواده",
+"lang":"de"
+},
+{
+"id":40,
+"fa":"زن",
+"en":"Frau",
+"category":"👨‍👩‍👧 خانواده",
+"lang":"de"
+},
+{
+"id":41,
+"fa":"کودک",
+"en":"Kind",
+"category":"👨‍👩‍👧 خانواده",
+"lang":"de"
+},
+{
+"id":42,
+"fa":"خانه",
+"en":"Haus",
+"category":"🏠 خانه",
+"lang":"de"
+},
+{
+"id":43,
+"fa":"مدرسه",
+"en":"Schule",
+"category":"🏫 مدرسه",
+"lang":"de"
+},
+{
+"id":44,
+"fa":"کتاب",
+"en":"Buch",
+"category":"🏫 مدرسه",
+"lang":"de"
+},
+{
+"id":45,
+"fa":"ماشین",
+"en":"Auto",
+"category":"🚗 حمل و نقل",
+"lang":"de"
+},
+{
+"id":46,
+"fa":"غذا",
+"en":"Essen",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":47,
+"fa":"آب",
+"en":"Wasser",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":48,
+"fa":"پول",
+"en":"Geld",
+"category":"🛒 خرید",
+"lang":"de"
+},
+{
+"id":49,
+"fa":"زمان",
+"en":"Zeit",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":50,
+"fa":"روز",
+"en":"Tag",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":51,
+"fa":"شب",
+"en":"Nacht",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":52,
+"fa":"صبح",
+"en":"Morgen",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":53,
+"fa":"بعدازظهر",
+"en":"Nachmittag",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":54,
+"fa":"عصر",
+"en":"Abend",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":55,
+"fa":"دست",
+"en":"Hand",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":56,
+"fa":"پا",
+"en":"Fuß",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":57,
+"fa":"سر",
+"en":"Kopf",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":58,
+"fa":"چشم",
+"en":"Auge",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":59,
+"fa":"گوش",
+"en":"Ohr",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":60,
+"fa":"بینی",
+"en":"Nase",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":61,
+"fa":"دهان",
+"en":"Mund",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":62,
+"fa":"صورت",
+"en":"Gesicht",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":63,
+"fa":"قلب",
+"en":"Herz",
+"category":"❤️ بدن",
+"lang":"de"
+},
+{
+"id":64,
+"fa":"اتاق",
+"en":"Zimmer",
+"category":"🏠 خانه",
+"lang":"de"
+},
+{
+"id":65,
+"fa":"در",
+"en":"Tür",
+"category":"🏠 خانه",
+"lang":"de"
+},
+{
+"id":66,
+"fa":"پنجره",
+"en":"Fenster",
+"category":"🏠 خانه",
+"lang":"de"
+},
+{
+"id":67,
+"fa":"صندلی",
+"en":"Stuhl",
+"category":"🏠 خانه",
+"lang":"de"
+},
+{
+"id":68,
+"fa":"میز",
+"en":"Tisch",
+"category":"🏠 خانه",
+"lang":"de"
+},
+{
+"id":69,
+"fa":"تخت",
+"en":"Bett",
+"category":"🏠 خانه",
+"lang":"de"
+},
+{
+"id":70,
+"fa":"کیف",
+"en":"Tasche",
+"category":"🌍 سفر",
+"lang":"de"
+},
+{
+"id":71,
+"fa":"تلفن",
+"en":"Telefon",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":72,
+"fa":"کامپیوتر",
+"en":"Computer",
+"category":"💼 شغل",
+"lang":"de"
+},
+{
+"id":73,
+"fa":"شهر",
+"en":"Stadt",
+"category":"🌍 سفر",
+"lang":"de"
+},
+{
+"id":74,
+"fa":"کشور",
+"en":"Land",
+"category":"🌍 سفر",
+"lang":"de"
+},
+{
+"id":75,
+"fa":"جاده",
+"en":"Straße",
+"category":"🚗 حمل و نقل",
+"lang":"de"
+},
+{
+"id":76,
+"fa":"خیابان",
+"en":"Straße",
+"category":"🚗 حمل و نقل",
+"lang":"de"
+},
+{
+"id":77,
+"fa":"پارک",
+"en":"Park",
+"category":"🌍 سفر",
+"lang":"de"
+},
+{
+"id":78,
+"fa":"بیمارستان",
+"en":"Krankenhaus",
+"category":"🏥 بیمارستان",
+"lang":"de"
+},
+{
+"id":79,
+"fa":"پزشک",
+"en":"Arzt",
+"category":"🏥 بیمارستان",
+"lang":"de"
+},
+{
+"id":80,
+"fa":"معلم",
+"en":"Lehrer",
+"category":"🏫 مدرسه",
+"lang":"de"
+},
+{
+"id":81,
+"fa":"دانش‌آموز",
+"en":"Schüler",
+"category":"🏫 مدرسه",
+"lang":"de"
+},
+{
+"id":82,
+"fa":"شغل",
+"en":"Beruf",
+"category":"💼 شغل",
+"lang":"de"
+},
+{
+"id":83,
+"fa":"اداره",
+"en":"Büro",
+"category":"💼 شغل",
+"lang":"de"
+},
+{
+"id":84,
+"fa":"بازار",
+"en":"Markt",
+"category":"🛒 خرید",
+"lang":"de"
+},
+{
+"id":85,
+"fa":"فروشگاه",
+"en":"Geschäft",
+"category":"🛒 خرید",
+"lang":"de"
+},
+{
+"id":86,
+"fa":"رستوران",
+"en":"Restaurant",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":87,
+"fa":"قهوه",
+"en":"Kaffee",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":88,
+"fa":"چای",
+"en":"Tee",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":89,
+"fa":"شیر",
+"en":"Milch",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":90,
+"fa":"نان",
+"en":"Brot",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":91,
+"fa":"میوه",
+"en":"Obst",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":92,
+"fa":"سیب",
+"en":"Apfel",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":93,
+"fa":"موز",
+"en":"Banane",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":94,
+"fa":"پرتقال",
+"en":"Orange",
+"category":"🍔 غذا و نوشیدنی",
+"lang":"de"
+},
+{
+"id":95,
+"fa":"رنگ",
+"en":"Farbe",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":96,
+"fa":"سیاه",
+"en":"schwarz",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":97,
+"fa":"سفید",
+"en":"weiß",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":98,
+"fa":"قرمز",
+"en":"rot",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":99,
+"fa":"آبی",
+"en":"blau",
+"category":"⭐ سایر",
+"lang":"de"
+},
+{
+"id":100,
+"fa":"سبز",
+"en":"grün",
+"category":"⭐ سایر",
+"lang":"de"
+}
+],
+"learnedWords":[],
+"bestScore":0
+}

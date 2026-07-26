@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 561,
+      "fa": "این پای من است.",
+      "en": "This is my foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 562,
+      "fa": "پایم درد می‌کند.",
+      "en": "My foot hurts.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 563,
+      "fa": "پاهایت را بشوی.",
+      "en": "Wash your feet.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 564,
+      "fa": "او پایش را آسیب زد.",
+      "en": "He hurt his foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 565,
+      "fa": "پایم سرد است.",
+      "en": "My foot is cold.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 566,
+      "fa": "او پایم را لمس کرد.",
+      "en": "She touched my foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 567,
+      "fa": "روی یک پا می‌ایستم.",
+      "en": "I stand on one foot.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 568,
+      "fa": "کفش خوب از پاهایت محافظت می‌کند.",
+      "en": "Good shoes protect your feet.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 569,
+      "fa": "پای چپم بزرگ‌تر است.",
+      "en": "My left foot is bigger.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 570,
+      "fa": "از پاهایت مراقبت کن.",
+      "en": "Take care of your feet.",
+      "category": "📘 foot",
+      "lang": "en"
+    },
+    {
+      "id": 571,
+      "fa": "این سر من است.",
+      "en": "This is my head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 572,
+      "fa": "سرم درد می‌کند.",
+      "en": "My head hurts.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 573,
+      "fa": "سرت را لمس کن.",
+      "en": "Touch your head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 574,
+      "fa": "او سرش را تکان داد.",
+      "en": "He nodded his head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 575,
+      "fa": "او ذهن باهوشی دارد.",
+      "en": "She has a smart head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 576,
+      "fa": "سرت را بالا نگه دار.",
+      "en": "Keep your head up.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 577,
+      "fa": "سرم سنگین است.",
+      "en": "My head feels heavy.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 578,
+      "fa": "قبل از عمل کردن فکر کن.",
+      "en": "Use your head before acting.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 579,
+      "fa": "او سرش به جایی خورد.",
+      "en": "He hit his head.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 580,
+      "fa": "آرامش به تصمیم‌های خوب کمک می‌کند.",
+      "en": "A cool head makes good decisions.",
+      "category": "📘 head",
+      "lang": "en"
+    },
+    {
+      "id": 581,
+      "fa": "این چشم من است.",
+      "en": "This is my eye.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 582,
+      "fa": "چشم‌هایم آبی هستند.",
+      "en": "My eyes are blue.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 583,
+      "fa": "چشم‌هایت را ببند.",
+      "en": "Close your eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 584,
+      "fa": "چشم‌هایت را باز کن.",
+      "en": "Open your eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 585,
+      "fa": "او چشم‌های زیبایی دارد.",
+      "en": "She has beautiful eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 586,
+      "fa": "چشمم درد می‌کند.",
+      "en": "My eye hurts.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 587,
+      "fa": "به چشمانم نگاه کن.",
+      "en": "Look into my eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 588,
+      "fa": "پزشک چشم‌هایم را معاینه کرد.",
+      "en": "The doctor checked my eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 589,
+      "fa": "از چشم‌هایت محافظت کن.",
+      "en": "Protect your eyes.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 590,
+      "fa": "چشم‌هایت احساساتت را نشان می‌دهند.",
+      "en": "Your eyes show your feelings.",
+      "category": "📘 eye",
+      "lang": "en"
+    },
+    {
+      "id": 591,
+      "fa": "این گوش من است.",
+      "en": "This is my ear.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 592,
+      "fa": "گوشم درد می‌کند.",
+      "en": "My ear hurts.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 593,
+      "fa": "من با گوش‌هایم می‌شنوم.",
+      "en": "I can hear with my ears.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 594,
+      "fa": "گوش‌های او بزرگ هستند.",
+      "en": "His ears are big.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 595,
+      "fa": "پزشک گوشم را معاینه کرد.",
+      "en": "The doctor checked my ear.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 596,
+      "fa": "با دقت گوش بده.",
+      "en": "Listen carefully with your ears.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 597,
+      "fa": "گوشم حالا خوب است.",
+      "en": "My ear is fine now.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 598,
+      "fa": "او در گوشم آرام صحبت کرد.",
+      "en": "She whispered in my ear.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 599,
+      "fa": "گوش‌هایت را تمیز نگه دار.",
+      "en": "Keep your ears clean.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 600,
+      "fa": "شنونده‌های خوب خوب گوش می‌دهند.",
+      "en": "Good listeners use their ears well.",
+      "category": "📘 ear",
+      "lang": "en"
+    },
+    {
+      "id": 601,
+      "fa": "این بینی من است.",
+      "en": "This is my nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 602,
+      "fa": "بینی‌ام سرد است.",
+      "en": "My nose is cold.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 603,
+      "fa": "بینی‌ات را لمس کن.",
+      "en": "Touch your nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 604,
+      "fa": "بینی او بزرگ است.",
+      "en": "His nose is big.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 605,
+      "fa": "بینی‌ام درد می‌کند.",
+      "en": "My nose hurts.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 606,
+      "fa": "من با بینی‌ام بو می‌کنم.",
+      "en": "I can smell with my nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 607,
+      "fa": "گل بوی خوبی می‌دهد.",
+      "en": "The flower smells nice.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 608,
+      "fa": "بینی‌ام گرفته است.",
+      "en": "My nose is blocked.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 609,
+      "fa": "پزشک بینی‌ام را بررسی کرد.",
+      "en": "The doctor looked at my nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    },
+    {
+      "id": 610,
+      "fa": "از بینی‌ات مراقبت کن.",
+      "en": "Take care of your nose.",
+      "category": "📘 nose",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

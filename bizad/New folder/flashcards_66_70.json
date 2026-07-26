@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 661,
+      "fa": "پنجره را باز کن.",
+      "en": "Open the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 662,
+      "fa": "پنجره را ببند.",
+      "en": "Close the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 663,
+      "fa": "پنجره تمیز است.",
+      "en": "The window is clean.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 664,
+      "fa": "اتاق من یک پنجره بزرگ دارد.",
+      "en": "My room has a big window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 665,
+      "fa": "از پنجره بیرون را نگاه کردم.",
+      "en": "I looked out the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 666,
+      "fa": "پنجره باز است.",
+      "en": "The window is open.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 667,
+      "fa": "پنجره بسته است.",
+      "en": "The window is closed.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 668,
+      "fa": "نور خورشید از پنجره وارد می‌شود.",
+      "en": "Sunlight comes through the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 669,
+      "fa": "لطفاً پنجره را تمیز کن.",
+      "en": "Please clean the window.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 670,
+      "fa": "یک پنجره شکسته نیاز به تعمیر دارد.",
+      "en": "A broken window needs repair.",
+      "category": "📘 window",
+      "lang": "en"
+    },
+    {
+      "id": 671,
+      "fa": "این یک صندلی است.",
+      "en": "This is a chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 672,
+      "fa": "روی صندلی بنشین.",
+      "en": "Sit on the chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 673,
+      "fa": "صندلی راحت است.",
+      "en": "The chair is comfortable.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 674,
+      "fa": "صندلی جدید است.",
+      "en": "The chair is new.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 675,
+      "fa": "صندلی را جابه‌جا کن.",
+      "en": "Move the chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 676,
+      "fa": "صندلی نزدیک میز است.",
+      "en": "The chair is near the table.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 677,
+      "fa": "او یک صندلی چوبی خرید.",
+      "en": "He bought a wooden chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 678,
+      "fa": "لطفاً یک صندلی دیگر بیاور.",
+      "en": "Please bring another chair.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 679,
+      "fa": "صندلی قدیمی شکسته است.",
+      "en": "The old chair is broken.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 680,
+      "fa": "همه برای نشستن به یک صندلی نیاز دارند.",
+      "en": "Everyone needs a chair to sit.",
+      "category": "📘 chair",
+      "lang": "en"
+    },
+    {
+      "id": 681,
+      "fa": "این یک میز است.",
+      "en": "This is a table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 682,
+      "fa": "میز تمیز است.",
+      "en": "The table is clean.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 683,
+      "fa": "کتاب را روی میز بگذار.",
+      "en": "Put the book on the table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 684,
+      "fa": "میز بزرگ است.",
+      "en": "The table is big.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 685,
+      "fa": "ما پشت میز غذا می‌خوریم.",
+      "en": "We eat at the table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 686,
+      "fa": "میز از چوب ساخته شده است.",
+      "en": "The table is made of wood.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 687,
+      "fa": "تلفنم روی میز است.",
+      "en": "My phone is on the table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 688,
+      "fa": "لطفاً میز را تمیز کن.",
+      "en": "Please clean the table.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 689,
+      "fa": "میز گرد زیبا به نظر می‌رسد.",
+      "en": "The round table looks beautiful.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 690,
+      "fa": "یک میز محکم سال‌ها دوام می‌آورد.",
+      "en": "A strong table lasts for years.",
+      "category": "📘 table",
+      "lang": "en"
+    },
+    {
+      "id": 691,
+      "fa": "این تخت من است.",
+      "en": "This is my bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 692,
+      "fa": "تخت من راحت است.",
+      "en": "My bed is comfortable.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 693,
+      "fa": "من روی تختم می‌خوابم.",
+      "en": "I sleep in my bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 694,
+      "fa": "تخت تمیز است.",
+      "en": "The bed is clean.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 695,
+      "fa": "هر صبح تختت را مرتب کن.",
+      "en": "Make your bed every morning.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 696,
+      "fa": "تخت نزدیک پنجره است.",
+      "en": "The bed is near the window.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 697,
+      "fa": "کودک روی تخت است.",
+      "en": "The child is on the bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 698,
+      "fa": "من یک تخت جدید خریدم.",
+      "en": "I bought a new bed.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 699,
+      "fa": "یک تخت نرم به خواب خوب کمک می‌کند.",
+      "en": "A soft bed helps you sleep well.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 700,
+      "fa": "تخت پر از بالش است.",
+      "en": "The bed is full of pillows.",
+      "category": "📘 bed",
+      "lang": "en"
+    },
+    {
+      "id": 701,
+      "fa": "این کیف من است.",
+      "en": "This is my bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 702,
+      "fa": "کیف من سنگین است.",
+      "en": "My bag is heavy.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 703,
+      "fa": "کیف جدید است.",
+      "en": "The bag is new.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 704,
+      "fa": "کیفت را باز کن.",
+      "en": "Open your bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 705,
+      "fa": "کتابم داخل کیف است.",
+      "en": "My book is in the bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 706,
+      "fa": "او یک کیف مشکی حمل می‌کند.",
+      "en": "She carries a black bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 707,
+      "fa": "کیف روی صندلی است.",
+      "en": "The bag is on the chair.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 708,
+      "fa": "لطفاً کیفت را بیاور.",
+      "en": "Please bring your bag.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 709,
+      "fa": "این کیف پر از لباس است.",
+      "en": "This bag is full of clothes.",
+      "category": "📘 bag",
+      "lang": "en"
+    },
+    {
+      "id": 710,
+      "fa": "یک کیف خوب از وسایلت محافظت می‌کند.",
+      "en": "A good bag protects your things.",
+      "category": "📘 bag",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

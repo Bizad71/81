@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 611,
+      "fa": "این دهان من است.",
+      "en": "This is my mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 612,
+      "fa": "دهانت را باز کن.",
+      "en": "Open your mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 613,
+      "fa": "دهانت را ببند.",
+      "en": "Close your mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 614,
+      "fa": "دهانم خشک است.",
+      "en": "My mouth is dry.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 615,
+      "fa": "پزشک دهانم را معاینه کرد.",
+      "en": "The doctor checked my mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 616,
+      "fa": "بعد از غذا دهانت را بشوی.",
+      "en": "Wash your mouth after eating.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 617,
+      "fa": "امروز دهانم درد می‌کند.",
+      "en": "My mouth hurts today.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 618,
+      "fa": "غذا وارد دهان می‌شود.",
+      "en": "Food goes into the mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 619,
+      "fa": "واضح صحبت کن.",
+      "en": "Speak clearly with your mouth.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 620,
+      "fa": "دهان سالم مهم است.",
+      "en": "A healthy mouth is important.",
+      "category": "📘 mouth",
+      "lang": "en"
+    },
+    {
+      "id": 621,
+      "fa": "این صورت من است.",
+      "en": "This is my face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 622,
+      "fa": "صورتت را بشوی.",
+      "en": "Wash your face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 623,
+      "fa": "صورت او زیباست.",
+      "en": "Her face is beautiful.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 624,
+      "fa": "صورت او خسته به نظر می‌رسد.",
+      "en": "His face looks tired.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 625,
+      "fa": "صورتم را لمس کردم.",
+      "en": "I touched my face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 626,
+      "fa": "نوزاد چهره شادی دارد.",
+      "en": "The baby has a happy face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 627,
+      "fa": "صورتم تمیز است.",
+      "en": "My face is clean.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 628,
+      "fa": "او با چهره‌ای شاد لبخند زد.",
+      "en": "She smiled with a bright face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 629,
+      "fa": "آب سرد صورتم را تازه کرد.",
+      "en": "Cold water refreshed my face.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 630,
+      "fa": "چهره خندان مردم را خوشحال می‌کند.",
+      "en": "A smiling face makes people happy.",
+      "category": "📘 face",
+      "lang": "en"
+    },
+    {
+      "id": 631,
+      "fa": "قلبم قوی است.",
+      "en": "My heart is strong.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 632,
+      "fa": "قلب او مهربان است.",
+      "en": "Her heart is kind.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 633,
+      "fa": "قلبم تند می‌زند.",
+      "en": "My heart beats fast.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 634,
+      "fa": "پزشک قلبم را معاینه کرد.",
+      "en": "The doctor checked my heart.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 635,
+      "fa": "عشق از قلب می‌آید.",
+      "en": "Love comes from the heart.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 636,
+      "fa": "قلبم احساس شادی می‌کند.",
+      "en": "My heart feels happy.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 637,
+      "fa": "ورزش قلبت را سالم نگه می‌دارد.",
+      "en": "Exercise keeps your heart healthy.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 638,
+      "fa": "یک قلب مهربان بی‌قیمت است.",
+      "en": "A good heart is priceless.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 639,
+      "fa": "او از ته دل صحبت کرد.",
+      "en": "He spoke from his heart.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 640,
+      "fa": "با خرد از قلبت پیروی کن.",
+      "en": "Follow your heart wisely.",
+      "category": "📘 heart",
+      "lang": "en"
+    },
+    {
+      "id": 641,
+      "fa": "این اتاق من است.",
+      "en": "This is my room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 642,
+      "fa": "اتاقم تمیز است.",
+      "en": "My room is clean.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 643,
+      "fa": "اتاق بزرگ است.",
+      "en": "The room is big.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 644,
+      "fa": "من در اتاقم می‌خوابم.",
+      "en": "I sleep in my room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 645,
+      "fa": "اتاق یک پنجره دارد.",
+      "en": "The room has a window.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 646,
+      "fa": "لطفاً اتاقت را تمیز کن.",
+      "en": "Please clean your room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 647,
+      "fa": "اتاقم پر از کتاب است.",
+      "en": "My room is full of books.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 648,
+      "fa": "دیروز اتاق را رنگ کردیم.",
+      "en": "We painted the room yesterday.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 649,
+      "fa": "اتاق آرام است.",
+      "en": "The room is quiet.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 650,
+      "fa": "همه در اتاق منتظر ماندند.",
+      "en": "Everyone waited in the room.",
+      "category": "📘 room",
+      "lang": "en"
+    },
+    {
+      "id": 651,
+      "fa": "در را باز کن.",
+      "en": "Open the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 652,
+      "fa": "در را ببند.",
+      "en": "Close the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 653,
+      "fa": "در باز است.",
+      "en": "The door is open.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 654,
+      "fa": "در بسته است.",
+      "en": "The door is closed.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 655,
+      "fa": "کسی به در زد.",
+      "en": "Someone knocked on the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 656,
+      "fa": "در جدید است.",
+      "en": "The door is new.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 657,
+      "fa": "لطفاً در را قفل کن.",
+      "en": "Please lock the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 658,
+      "fa": "در ورودی آبی است.",
+      "en": "The front door is blue.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 659,
+      "fa": "او کنار در ایستاد.",
+      "en": "He stood by the door.",
+      "category": "📘 door",
+      "lang": "en"
+    },
+    {
+      "id": 660,
+      "fa": "همیشه در را آرام ببند.",
+      "en": "Always close the door quietly.",
+      "category": "📘 door",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

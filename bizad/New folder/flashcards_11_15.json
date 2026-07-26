@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 111,
+      "fa": "این جدید است.",
+      "en": "This is new.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 112,
+      "fa": "من یک کتاب جدید دارم.",
+      "en": "I have a new book.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 113,
+      "fa": "تلفن جدید من خوب است.",
+      "en": "My new phone is good.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 114,
+      "fa": "امروز یک کیف جدید خریدم.",
+      "en": "Today I bought a new bag.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 115,
+      "fa": "ما در یک خانه جدید زندگی می‌کنیم.",
+      "en": "We live in a new house.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 116,
+      "fa": "او یک شغل جدید پیدا کرد.",
+      "en": "She found a new job.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 117,
+      "fa": "یادگیری کلمات جدید لذت‌بخش است.",
+      "en": "Learning new words is fun.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 118,
+      "fa": "هر روز جدید یک فرصت تازه است.",
+      "en": "Every new day is a new chance.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 119,
+      "fa": "یک ایده جدید پروژه را تغییر داد.",
+      "en": "A new idea changed the project.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 120,
+      "fa": "هرگز یادگیری چیزهای جدید را متوقف نکن.",
+      "en": "Never stop learning new things.",
+      "category": "📘 new",
+      "lang": "en"
+    },
+    {
+      "id": 121,
+      "fa": "این قدیمی است.",
+      "en": "This is old.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 122,
+      "fa": "کیف قدیمی من کوچک است.",
+      "en": "My old bag is small.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 123,
+      "fa": "آن خانه قدیمی زیباست.",
+      "en": "That old house is beautiful.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 124,
+      "fa": "پدربزرگم پیر است.",
+      "en": "My grandfather is old.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 125,
+      "fa": "من یک کتاب قدیمی پیدا کردم.",
+      "en": "I found an old book.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 126,
+      "fa": "دوستان قدیمی خاص هستند.",
+      "en": "Old friends are special.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 127,
+      "fa": "آن درخت قدیمی خیلی بزرگ است.",
+      "en": "That old tree is very big.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 128,
+      "fa": "او یک ماشین قدیمی می‌راند.",
+      "en": "He drives an old car.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 129,
+      "fa": "خاطرات قدیمی مرا خوشحال می‌کنند.",
+      "en": "Old memories make me happy.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 130,
+      "fa": "به افراد سالمند احترام بگذار.",
+      "en": "Respect old people.",
+      "category": "📘 old",
+      "lang": "en"
+    },
+    {
+      "id": 131,
+      "fa": "او جوان است.",
+      "en": "He is young.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 132,
+      "fa": "او یک معلم جوان است.",
+      "en": "She is a young teacher.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 133,
+      "fa": "پسر جوان خوشحال است.",
+      "en": "The young boy is happy.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 134,
+      "fa": "آن زمان جوان بودم.",
+      "en": "I was young then.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 135,
+      "fa": "جوانان سریع یاد می‌گیرند.",
+      "en": "Young people learn fast.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 136,
+      "fa": "آن پزشک جوان مهربان است.",
+      "en": "That young doctor is kind.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 137,
+      "fa": "ذهن‌های جوان ایده‌های جدید را دوست دارند.",
+      "en": "Young minds love new ideas.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 138,
+      "fa": "دانش‌آموز جوان سخت تلاش می‌کند.",
+      "en": "The young student works hard.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 139,
+      "fa": "هر فرد سالمندی روزی جوان بوده است.",
+      "en": "Every old person was once young.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 140,
+      "fa": "در قلبت جوان بمان.",
+      "en": "Stay young at heart.",
+      "category": "📘 young",
+      "lang": "en"
+    },
+    {
+      "id": 141,
+      "fa": "این گل زیباست.",
+      "en": "The flower is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 142,
+      "fa": "او لبخند زیبایی دارد.",
+      "en": "She has a beautiful smile.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 143,
+      "fa": "امروز روز زیبایی است.",
+      "en": "It is a beautiful day.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 144,
+      "fa": "این شهر زیباست.",
+      "en": "This city is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 145,
+      "fa": "پارک زیبا به نظر می‌رسد.",
+      "en": "The park looks beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 146,
+      "fa": "موسیقی زیبا مرا خوشحال می‌کند.",
+      "en": "Beautiful music makes me happy.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 147,
+      "fa": "آن خانه زیباست.",
+      "en": "That house is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 148,
+      "fa": "غروب زیباست.",
+      "en": "The sunset is beautiful.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 149,
+      "fa": "قلب زیبا مهم است.",
+      "en": "A beautiful heart is important.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 150,
+      "fa": "وقتی لبخند می‌زنی زندگی زیباست.",
+      "en": "Life is beautiful when you smile.",
+      "category": "📘 beautiful",
+      "lang": "en"
+    },
+    {
+      "id": 151,
+      "fa": "این زشت است.",
+      "en": "It is ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 152,
+      "fa": "دیوار زشت به نظر می‌رسد.",
+      "en": "The wall looks ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 153,
+      "fa": "آن پیراهن زشت است.",
+      "en": "That shirt is ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 154,
+      "fa": "هوای امروز بد و دلگیر است.",
+      "en": "The weather is ugly today.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 155,
+      "fa": "یک اشتباه زشت رخ داد.",
+      "en": "An ugly mistake happened.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 156,
+      "fa": "از کلمات زشت استفاده نکن.",
+      "en": "Do not use ugly words.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 157,
+      "fa": "ساختمان قدیمی زشت به نظر می‌رسد.",
+      "en": "The old building looks ugly.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 158,
+      "fa": "رفتار زشت به مردم آسیب می‌زند.",
+      "en": "Ugly behavior hurts people.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 159,
+      "fa": "زیبایی درون انسان است، نه ظاهر.",
+      "en": "Beauty is inside, not outside.",
+      "category": "📘 ugly",
+      "lang": "en"
+    },
+    {
+      "id": 160,
+      "fa": "هرگز مردم را از روی چهره قضاوت نکن.",
+      "en": "Never judge people by an ugly face.",
+      "category": "📘 ugly",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

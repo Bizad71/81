@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 361,
+      "fa": "این خانواده من است.",
+      "en": "This is my family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 362,
+      "fa": "من خانواده‌ام را دوست دارم.",
+      "en": "I love my family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 363,
+      "fa": "خانواده من خوشحال است.",
+      "en": "My family is happy.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 364,
+      "fa": "ما یک خانواده بزرگ هستیم.",
+      "en": "We are a big family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 365,
+      "fa": "خانواده من اینجا زندگی می‌کنند.",
+      "en": "My family lives here.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 366,
+      "fa": "خانواده در اولویت است.",
+      "en": "Family comes first.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 367,
+      "fa": "من با خانواده‌ام شام خوردم.",
+      "en": "I had dinner with my family.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 368,
+      "fa": "خانواده‌ام از من حمایت می‌کنند.",
+      "en": "My family supports me.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 369,
+      "fa": "یک خانواده قوی به تو امید می‌دهد.",
+      "en": "A strong family gives you hope.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 370,
+      "fa": "وقت گذراندن با خانواده ارزشمند است.",
+      "en": "Time with family is precious.",
+      "category": "📘 family",
+      "lang": "en"
+    },
+    {
+      "id": 371,
+      "fa": "پسر خوشحال است.",
+      "en": "The boy is happy.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 372,
+      "fa": "پسر جوان است.",
+      "en": "The boy is young.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 373,
+      "fa": "یک پسر در حال کتاب خواندن است.",
+      "en": "A boy is reading.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 374,
+      "fa": "پسر سریع می‌دود.",
+      "en": "The boy runs fast.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 375,
+      "fa": "آن پسر دوست من است.",
+      "en": "That boy is my friend.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 376,
+      "fa": "پسر یک کیف جدید دارد.",
+      "en": "The boy has a new bag.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 377,
+      "fa": "یک پسر خوب به دیگران کمک می‌کند.",
+      "en": "A good boy helps others.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 378,
+      "fa": "پسر هر روز درس می‌خواند.",
+      "en": "The boy studies every day.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 379,
+      "fa": "پسر می‌خواهد پزشک شود.",
+      "en": "The boy wants to be a doctor.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 380,
+      "fa": "هر پسری یک رویا دارد.",
+      "en": "Every boy has a dream.",
+      "category": "📘 boy",
+      "lang": "en"
+    },
+    {
+      "id": 381,
+      "fa": "دختر مهربان است.",
+      "en": "The girl is kind.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 382,
+      "fa": "دختر خوشحال است.",
+      "en": "The girl is happy.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 383,
+      "fa": "یک دختر در حال آواز خواندن است.",
+      "en": "A girl is singing.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 384,
+      "fa": "دختر لبخند زیبایی دارد.",
+      "en": "The girl has a beautiful smile.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 385,
+      "fa": "آن دختر خواهر من است.",
+      "en": "That girl is my sister.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 386,
+      "fa": "دختر سخت درس می‌خواند.",
+      "en": "The girl studies hard.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 387,
+      "fa": "یک دختر جوان به من کمک کرد.",
+      "en": "A young girl helped me.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 388,
+      "fa": "دختر کتاب‌ها را دوست دارد.",
+      "en": "The girl likes books.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 389,
+      "fa": "او دختر باهوشی است.",
+      "en": "She is a smart girl.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 390,
+      "fa": "هر دختری شایسته احترام است.",
+      "en": "Every girl deserves respect.",
+      "category": "📘 girl",
+      "lang": "en"
+    },
+    {
+      "id": 391,
+      "fa": "آن مرد قدبلند است.",
+      "en": "The man is tall.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 392,
+      "fa": "آن مرد ثروتمند است.",
+      "en": "The man is rich.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 393,
+      "fa": "یک مرد منتظر است.",
+      "en": "A man is waiting.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 394,
+      "fa": "آن مرد سخت کار می‌کند.",
+      "en": "The man works hard.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 395,
+      "fa": "آن مرد معلم من است.",
+      "en": "That man is my teacher.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 396,
+      "fa": "آن مرد ماشین می‌راند.",
+      "en": "The man drives a car.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 397,
+      "fa": "یک مرد خوب به مردم کمک می‌کند.",
+      "en": "A good man helps people.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 398,
+      "fa": "آن مرد نزدیک اینجا زندگی می‌کند.",
+      "en": "The man lives near here.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 399,
+      "fa": "آن مرد خانواده بزرگی دارد.",
+      "en": "The man has a big family.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 400,
+      "fa": "هر مردی باید صادق باشد.",
+      "en": "Every man should be honest.",
+      "category": "📘 man",
+      "lang": "en"
+    },
+    {
+      "id": 401,
+      "fa": "آن زن مهربان است.",
+      "en": "The woman is kind.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 402,
+      "fa": "آن زن پزشک است.",
+      "en": "The woman is a doctor.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 403,
+      "fa": "یک زن در حال مطالعه است.",
+      "en": "A woman is reading.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 404,
+      "fa": "آن زن صدای زیبایی دارد.",
+      "en": "The woman has a beautiful voice.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 405,
+      "fa": "آن زن مادر من است.",
+      "en": "That woman is my mother.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 406,
+      "fa": "آن زن در یک بیمارستان کار می‌کند.",
+      "en": "The woman works in a hospital.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 407,
+      "fa": "یک زن قوی الهام‌بخش دیگران است.",
+      "en": "A strong woman inspires others.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 408,
+      "fa": "آن زن هر صبح لبخند می‌زند.",
+      "en": "The woman smiles every morning.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 409,
+      "fa": "آن زن به کودکان آموزش می‌دهد.",
+      "en": "The woman teaches children.",
+      "category": "📘 woman",
+      "lang": "en"
+    },
+    {
+      "id": 410,
+      "fa": "هر زنی شایسته احترام است.",
+      "en": "Every woman deserves respect.",
+      "category": "📘 woman",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

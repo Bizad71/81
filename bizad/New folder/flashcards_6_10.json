@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 51,
+      "fa": "من غمگین هستم.",
+      "en": "I am sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 52,
+      "fa": "او امروز غمگین است.",
+      "en": "She is sad today.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 53,
+      "fa": "این خبر مرا غمگین کرد.",
+      "en": "The news made me sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 54,
+      "fa": "دوستم غمگین به نظر می‌رسد.",
+      "en": "My friend looks sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 55,
+      "fa": "آن فیلم غمگین بود.",
+      "en": "That movie was sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 56,
+      "fa": "گاهی موسیقی غمگین گوش می‌دهم.",
+      "en": "I sometimes listen to sad music.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 57,
+      "fa": "او با چهره‌ای غمگین رفت.",
+      "en": "He left with a sad face.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 58,
+      "fa": "یک دوست خوب به فرد غمگین کمک می‌کند.",
+      "en": "A good friend helps a sad person.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 59,
+      "fa": "بعد از آن روز بد، همه غمگین بودند.",
+      "en": "After that bad day, everyone was sad.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 60,
+      "fa": "با وجود لحظه‌های غمگین، امیدت را از دست نده.",
+      "en": "Do not lose hope despite sad moments.",
+      "category": "📘 sad",
+      "lang": "en"
+    },
+    {
+      "id": 61,
+      "fa": "این آسان است.",
+      "en": "It is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 62,
+      "fa": "این سؤال آسان است.",
+      "en": "This question is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 63,
+      "fa": "یادگیری این کلمه آسان است.",
+      "en": "Learning this word is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 64,
+      "fa": "این بازی آسان است.",
+      "en": "This game is easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 65,
+      "fa": "کار امروز آسان بود.",
+      "en": "Today's work was easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 66,
+      "fa": "با تمرین، انگلیسی آسان‌تر می‌شود.",
+      "en": "With practice, English becomes easier.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 67,
+      "fa": "این کتاب برای مبتدیان آسان است.",
+      "en": "This book is easy for beginners.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 68,
+      "fa": "دوست خوب یادگیری را آسان می‌کند.",
+      "en": "A good friend makes learning easy.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 69,
+      "fa": "وقتی برنامه داشته باشی، زندگی آسان‌تر می‌شود.",
+      "en": "Life becomes easier when you have a plan.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 70,
+      "fa": "هیچ موفقیتی از روز اول آسان نیست.",
+      "en": "No success is easy from the first day.",
+      "category": "📘 easy",
+      "lang": "en"
+    },
+    {
+      "id": 71,
+      "fa": "این سخت است.",
+      "en": "It is hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 72,
+      "fa": "این سؤال سخت است.",
+      "en": "This question is hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 73,
+      "fa": "امتحان سخت بود.",
+      "en": "The exam was hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 74,
+      "fa": "او سخت کار می‌کند.",
+      "en": "He works hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 75,
+      "fa": "یادگیری زمان می‌خواهد، اما سخت نیست.",
+      "en": "Learning takes time, but it is not hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 76,
+      "fa": "این تصمیم سخت بود.",
+      "en": "This decision was hard.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 77,
+      "fa": "روزهای سخت می‌گذرند.",
+      "en": "Hard days pass.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 78,
+      "fa": "کار سخت نتیجه خوب دارد.",
+      "en": "Hard work brings good results.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 79,
+      "fa": "او با وجود مشکلات سخت ادامه داد.",
+      "en": "He kept going despite hard problems.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 80,
+      "fa": "تمرین سخت امروز، موفقیت بزرگ فرداست.",
+      "en": "Hard practice today brings big success tomorrow.",
+      "category": "📘 hard",
+      "lang": "en"
+    },
+    {
+      "id": 81,
+      "fa": "او سریع است.",
+      "en": "He is fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 82,
+      "fa": "این ماشین سریع است.",
+      "en": "This car is fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 83,
+      "fa": "سریع راه برو.",
+      "en": "Walk fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 84,
+      "fa": "او سریع می‌دود.",
+      "en": "She runs fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 85,
+      "fa": "این اینترنت سریع است.",
+      "en": "This internet is fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 86,
+      "fa": "قطار سریع رسید.",
+      "en": "The train arrived fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 87,
+      "fa": "او سریع یاد می‌گیرد.",
+      "en": "He learns fast.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 88,
+      "fa": "با تمرین سریع‌تر پیشرفت می‌کنی.",
+      "en": "You improve faster with practice.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 89,
+      "fa": "یک تصمیم سریع همیشه تصمیم خوبی نیست.",
+      "en": "A fast decision is not always a good decision.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 90,
+      "fa": "او سریع کار کرد و زود تمام کرد.",
+      "en": "He worked fast and finished early.",
+      "category": "📘 fast",
+      "lang": "en"
+    },
+    {
+      "id": 91,
+      "fa": "او آهسته راه می‌رود.",
+      "en": "He walks slowly.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 92,
+      "fa": "این اینترنت کند است.",
+      "en": "This internet is slow.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 93,
+      "fa": "آهسته صحبت کن.",
+      "en": "Speak slowly.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 94,
+      "fa": "لاک‌پشت آهسته حرکت می‌کند.",
+      "en": "A turtle moves slowly.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 95,
+      "fa": "امروز ترافیک کند بود.",
+      "en": "Traffic was slow today.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 96,
+      "fa": "او آهسته اما دقیق کار می‌کند.",
+      "en": "He works slowly but carefully.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 97,
+      "fa": "یادگیری آهسته بهتر از یاد نگرفتن است.",
+      "en": "Learning slowly is better than not learning.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 98,
+      "fa": "قطار امروز کندتر از همیشه بود.",
+      "en": "The train was slower than usual today.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 99,
+      "fa": "پیشرفت آهسته هم پیشرفت است.",
+      "en": "Slow progress is still progress.",
+      "category": "📘 slow",
+      "lang": "en"
+    },
+    {
+      "id": 100,
+      "fa": "آهسته حرکت کن و اشتباهات کمتری انجام بده.",
+      "en": "Move slowly and make fewer mistakes.",
+      "category": "📘 slow",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

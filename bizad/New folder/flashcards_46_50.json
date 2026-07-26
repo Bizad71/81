@@ -1,0 +1,357 @@
+{
+  "flashcards": [
+    {
+      "id": 461,
+      "fa": "این غذا خوب است.",
+      "en": "This food is good.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 462,
+      "fa": "من این غذا را دوست دارم.",
+      "en": "I like this food.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 463,
+      "fa": "غذا داغ است.",
+      "en": "The food is hot.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 464,
+      "fa": "ما هر روز به غذا نیاز داریم.",
+      "en": "We need food every day.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 465,
+      "fa": "غذا بوی خوبی می‌دهد.",
+      "en": "The food smells good.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 466,
+      "fa": "غذای سالم انرژی می‌دهد.",
+      "en": "Healthy food gives energy.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 467,
+      "fa": "رستوران غذای خوشمزه دارد.",
+      "en": "The restaurant has delicious food.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 468,
+      "fa": "غذای خوب مردم را خوشحال می‌کند.",
+      "en": "Good food makes people happy.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 469,
+      "fa": "غذا را هدر نده.",
+      "en": "Do not waste food.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 470,
+      "fa": "غذای تازه برای سلامتی بهتر است.",
+      "en": "Fresh food is better for your health.",
+      "category": "📘 food",
+      "lang": "en"
+    },
+    {
+      "id": 471,
+      "fa": "من آب می‌نوشم.",
+      "en": "I drink water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 472,
+      "fa": "آب تمیز است.",
+      "en": "The water is clean.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 473,
+      "fa": "ما به آب نیاز داریم.",
+      "en": "We need water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 474,
+      "fa": "لطفاً کمی آب به من بده.",
+      "en": "Please give me some water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 475,
+      "fa": "بطری پر از آب است.",
+      "en": "The bottle is full of water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 476,
+      "fa": "آب سرد حس خوبی دارد.",
+      "en": "Cold water feels good.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 477,
+      "fa": "هر روز آب کافی بنوش.",
+      "en": "Drink enough water every day.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 478,
+      "fa": "آب تمیز مهم است.",
+      "en": "Clean water is important.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 479,
+      "fa": "کودک آب می‌نوشد.",
+      "en": "The child drinks water.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 480,
+      "fa": "آب به همه موجودات زنده زندگی می‌بخشد.",
+      "en": "Water gives life to every living thing.",
+      "category": "📘 water",
+      "lang": "en"
+    },
+    {
+      "id": 481,
+      "fa": "من پول دارم.",
+      "en": "I have money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 482,
+      "fa": "او به پول نیاز دارد.",
+      "en": "She needs money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 483,
+      "fa": "پول داخل کیف من است.",
+      "en": "Money is in my bag.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 484,
+      "fa": "پول را هدر نده.",
+      "en": "Do not waste money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 485,
+      "fa": "او پولش را پس‌انداز کرد.",
+      "en": "He saved his money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 486,
+      "fa": "پول نمی‌تواند خوشبختی بخرد.",
+      "en": "Money cannot buy happiness.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 487,
+      "fa": "برای به دست آوردن پول سخت کار کن.",
+      "en": "Work hard to earn money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 488,
+      "fa": "پولت را در جای امن نگه دار.",
+      "en": "Keep your money safe.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 489,
+      "fa": "او تمام پولش را خرج کرد.",
+      "en": "She spent all her money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 490,
+      "fa": "برنامه‌ریزی خوب به تو کمک می‌کند پول پس‌انداز کنی.",
+      "en": "Good planning helps you save money.",
+      "category": "📘 money",
+      "lang": "en"
+    },
+    {
+      "id": 491,
+      "fa": "ساعت چند است؟",
+      "en": "What time is it?",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 492,
+      "fa": "من وقت دارم.",
+      "en": "I have time.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 493,
+      "fa": "زمان مهم است.",
+      "en": "Time is important.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 494,
+      "fa": "ما وقت زیادی نداریم.",
+      "en": "We do not have much time.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 495,
+      "fa": "زمان سریع می‌گذرد.",
+      "en": "Time goes fast.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 496,
+      "fa": "وقتت را هدر نده.",
+      "en": "Do not waste your time.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 497,
+      "fa": "هر بار یک فرصت تازه است.",
+      "en": "Every time is a new chance.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 498,
+      "fa": "زمان به ما کمک می‌کند یاد بگیریم.",
+      "en": "Time helps us learn.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 499,
+      "fa": "استفاده خوب از زمان موفقیت می‌آورد.",
+      "en": "Good use of time brings success.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 500,
+      "fa": "زمان از پول ارزشمندتر است.",
+      "en": "Time is more valuable than money.",
+      "category": "📘 time",
+      "lang": "en"
+    },
+    {
+      "id": 501,
+      "fa": "امروز روز خوبی است.",
+      "en": "Today is a good day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 502,
+      "fa": "روز خوبی داشته باش.",
+      "en": "Have a nice day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 503,
+      "fa": "هر روز متفاوت است.",
+      "en": "Every day is different.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 504,
+      "fa": "من هر روز درس می‌خوانم.",
+      "en": "I study every day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 505,
+      "fa": "روز آفتابی است.",
+      "en": "The day is sunny.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 506,
+      "fa": "ما در طول روز کار می‌کنیم.",
+      "en": "We work during the day.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 507,
+      "fa": "یک روز جدید آغاز می‌شود.",
+      "en": "A new day begins.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 508,
+      "fa": "من هر روز انگلیسی یاد می‌گیرم.",
+      "en": "Every day I learn English.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 509,
+      "fa": "یک روز رویایت به حقیقت می‌پیوندد.",
+      "en": "One day your dream will come true.",
+      "category": "📘 day",
+      "lang": "en"
+    },
+    {
+      "id": 510,
+      "fa": "هر روز را ارزشمند کن.",
+      "en": "Make every day meaningful.",
+      "category": "📘 day",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

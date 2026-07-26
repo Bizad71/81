@@ -1,0 +1,77 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "fa": "این خوب است.",
+      "en": "It is good.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 2,
+      "fa": "این کتاب خوب است.",
+      "en": "This book is good.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 3,
+      "fa": "امروز روز خوبی است.",
+      "en": "Today is a good day.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 4,
+      "fa": "دوست من آدم خوبی است.",
+      "en": "My friend is a good person.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 5,
+      "fa": "یک معلم خوب به همه دانش‌آموزان کمک می‌کند.",
+      "en": "A good teacher helps every student.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 6,
+      "fa": "یک صبحانه خوب به من انرژی می‌دهد.",
+      "en": "A good breakfast gives me energy.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 7,
+      "fa": "دوستان خوب در روزهای خوب و بد کنار تو می‌مانند.",
+      "en": "Good friends stay with you in both good and bad times.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 8,
+      "fa": "خواندن یک کتاب خوب قبل از خواب به من کمک می‌کند بهتر بخوابم.",
+      "en": "Reading a good book before bed helps me sleep better.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 9,
+      "fa": "یاد گرفتن یک عادت خوب می‌تواند آینده تو را تغییر دهد.",
+      "en": "Learning one good habit can change your future.",
+      "category": "📘 good",
+      "lang": "en"
+    },
+    {
+      "id": 10,
+      "fa": "یک تصمیم خوب امروز می‌تواند فرصت‌های خوبی برای فردا بسازد.",
+      "en": "A good decision today can create good opportunities tomorrow.",
+      "category": "📘 good",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

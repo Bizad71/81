@@ -1,0 +1,219 @@
+{
+  "flashcards": [
+    {
+      "id": 911,
+      "fa": "من شیر دوست دارم.",
+      "en": "I like milk.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 912,
+      "fa": "شیر سرد است.",
+      "en": "The milk is cold.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 913,
+      "fa": "من هر صبح شیر می‌نوشم.",
+      "en": "I drink milk every morning.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 914,
+      "fa": "این شیر تازه است.",
+      "en": "This milk is fresh.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 915,
+      "fa": "کودکان باید شیر بنوشند.",
+      "en": "Children should drink milk.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 916,
+      "fa": "شیر برای استخوان‌ها مفید است.",
+      "en": "Milk is good for your bones.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 917,
+      "fa": "او یک لیوان شیر نوشید.",
+      "en": "She drank a glass of milk.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 918,
+      "fa": "شیر داخل یخچال است.",
+      "en": "The milk is in the refrigerator.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 919,
+      "fa": "من هر شب قبل از خواب شیر می‌نوشم.",
+      "en": "I drink milk before bed every night.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+    {
+      "id": 920,
+      "fa": "نوشیدن شیر به سالم ماندن بدن کمک می‌کند.",
+      "en": "Drinking milk helps keep your body healthy.",
+      "category": "📘 milk",
+      "lang": "en"
+    },
+
+    {
+      "id": 921,
+      "fa": "این نان است.",
+      "en": "This is bread.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 922,
+      "fa": "من نان دوست دارم.",
+      "en": "I like bread.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 923,
+      "fa": "نان تازه است.",
+      "en": "The bread is fresh.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 924,
+      "fa": "ما هر روز نان می‌خوریم.",
+      "en": "We eat bread every day.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 925,
+      "fa": "نان روی میز است.",
+      "en": "The bread is on the table.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 926,
+      "fa": "او از فروشگاه نان خرید.",
+      "en": "He bought bread from the shop.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 927,
+      "fa": "نان گرم خوشمزه است.",
+      "en": "Warm bread is delicious.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 928,
+      "fa": "لطفاً کمی نان به من بده.",
+      "en": "Please give me some bread.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 929,
+      "fa": "ما با صبحانه نان خوردیم.",
+      "en": "We ate bread for breakfast.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+    {
+      "id": 930,
+      "fa": "نان تازه همیشه طعم بهتری دارد.",
+      "en": "Fresh bread always tastes better.",
+      "category": "📘 bread",
+      "lang": "en"
+    },
+
+    {
+      "id": 931,
+      "fa": "من میوه دوست دارم.",
+      "en": "I like fruit.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 932,
+      "fa": "این میوه تازه است.",
+      "en": "This fruit is fresh.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 933,
+      "fa": "من هر روز میوه می‌خورم.",
+      "en": "I eat fruit every day.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 934,
+      "fa": "میوه برای سلامتی مفید است.",
+      "en": "Fruit is good for your health.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 935,
+      "fa": "ما از بازار میوه خریدیم.",
+      "en": "We bought fruit from the market.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 936,
+      "fa": "این میوه خیلی شیرین است.",
+      "en": "This fruit is very sweet.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 937,
+      "fa": "کودکان باید میوه بخورند.",
+      "en": "Children should eat fruit.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 938,
+      "fa": "روی میز میوه‌های زیادی هست.",
+      "en": "There is a lot of fruit on the table.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 939,
+      "fa": "من بعد از ناهار میوه می‌خورم.",
+      "en": "I eat fruit after lunch.",
+      "category": "📘 fruit",
+      "lang": "en"
+    },
+    {
+      "id": 940,
+      "fa": "خوردن میوه هر روز بدن را سالم نگه می‌دارد.",
+      "en": "Eating fruit every day keeps your body healthy.",
+      "category": "📘 fruit",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}

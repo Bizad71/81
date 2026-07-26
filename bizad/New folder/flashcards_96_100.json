@@ -1,0 +1,219 @@
+{
+  "flashcards": [
+    {
+      "id": 961,
+      "fa": "این یک سیب است.",
+      "en": "This is an apple.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 962,
+      "fa": "من سیب دوست دارم.",
+      "en": "I like apples.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 963,
+      "fa": "این سیب قرمز است.",
+      "en": "This apple is red.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 964,
+      "fa": "سیب روی میز است.",
+      "en": "The apple is on the table.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 965,
+      "fa": "من هر روز یک سیب می‌خورم.",
+      "en": "I eat an apple every day.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 966,
+      "fa": "این سیب تازه و شیرین است.",
+      "en": "This apple is fresh and sweet.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 967,
+      "fa": "او یک سیب از بازار خرید.",
+      "en": "She bought an apple from the market.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 968,
+      "fa": "لطفاً آن سیب را به من بده.",
+      "en": "Please give me that apple.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 969,
+      "fa": "یک سیب در روز برای سلامتی مفید است.",
+      "en": "An apple a day is good for your health.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+    {
+      "id": 970,
+      "fa": "سیب یکی از محبوب‌ترین میوه‌های جهان است.",
+      "en": "An apple is one of the most popular fruits in the world.",
+      "category": "📘 apple",
+      "lang": "en"
+    },
+
+    {
+      "id": 971,
+      "fa": "این یک موز است.",
+      "en": "This is a banana.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 972,
+      "fa": "من موز دوست دارم.",
+      "en": "I like bananas.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 973,
+      "fa": "این موز زرد است.",
+      "en": "This banana is yellow.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 974,
+      "fa": "موز روی میز است.",
+      "en": "The banana is on the table.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 975,
+      "fa": "من هر صبح یک موز می‌خورم.",
+      "en": "I eat a banana every morning.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 976,
+      "fa": "این موز رسیده و شیرین است.",
+      "en": "This banana is ripe and sweet.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 977,
+      "fa": "او دو موز خرید.",
+      "en": "He bought two bananas.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 978,
+      "fa": "موز انرژی زیادی به بدن می‌دهد.",
+      "en": "Bananas give your body a lot of energy.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 979,
+      "fa": "لطفاً یک موز برای من بیاور.",
+      "en": "Please bring me a banana.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+    {
+      "id": 980,
+      "fa": "موز یکی از سالم‌ترین میان‌وعده‌هاست.",
+      "en": "A banana is one of the healthiest snacks.",
+      "category": "📘 banana",
+      "lang": "en"
+    },
+
+    {
+      "id": 981,
+      "fa": "این یک پرتقال است.",
+      "en": "This is an orange.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 982,
+      "fa": "من پرتقال دوست دارم.",
+      "en": "I like oranges.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 983,
+      "fa": "این پرتقال تازه است.",
+      "en": "This orange is fresh.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 984,
+      "fa": "پرتقال روی میز است.",
+      "en": "The orange is on the table.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 985,
+      "fa": "من آب پرتقال می‌نوشم.",
+      "en": "I drink orange juice.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 986,
+      "fa": "این پرتقال شیرین و آبدار است.",
+      "en": "This orange is sweet and juicy.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 987,
+      "fa": "او یک پرتقال پوست کند.",
+      "en": "She peeled an orange.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 988,
+      "fa": "پرتقال سرشار از ویتامین سی است.",
+      "en": "Oranges are rich in vitamin C.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 989,
+      "fa": "ما بعد از ناهار پرتقال خوردیم.",
+      "en": "We ate oranges after lunch.",
+      "category": "📘 orange",
+      "lang": "en"
+    },
+    {
+      "id": 990,
+      "fa": "خوردن پرتقال به تقویت سیستم ایمنی کمک می‌کند.",
+      "en": "Eating oranges helps strengthen your immune system.",
+      "category": "📘 orange",
+      "lang": "en"
+    }
+  ],
+  "learnedWords": [],
+  "language": "en",
+  "bestScore": 0
+}
