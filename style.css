@@ -650,3 +650,18 @@ outline:none;
 #downloadSelect option{
 color:#000;
 }
+@media (max-width:650px){
+
+.topMenu{
+flex-wrap:wrap;
+gap:6px;
+padding:10px;
+}
+
+.menuBtn,
+.topMenu select{
+font-size:13px;
+padding:8px 10px;
+}
+
+}
