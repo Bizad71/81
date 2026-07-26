@@ -1585,3 +1585,18 @@ downloadSelect.onchange = function(){
 };
 
 }
+document.getElementById("restorePreset").onchange = async function () {
+
+    const res = await fetch(this.value);
+
+    const backup = await res.json();
+
+    data = backup.flashcards;
+    learned = backup.learnedWords;
+
+    localStorage.setItem("flashcards", JSON.stringify(data));
+    localStorage.setItem("learnedWords", JSON.stringify(learned));
+
+    location.reload();
+
+};
