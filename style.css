@@ -117,6 +117,22 @@ backface-visibility:hidden;
 .front h2{
 font-size:24px;
 color:#2f5d50;
+margin-bottom:12px;
+}
+
+.front .speak{
+background:#4d9b7d;
+border:none;
+padding:8px 14px;
+border-radius:8px;
+cursor:pointer;
+color:#fff;
+font-size:16px;
+transition:.2s;
+}
+
+.front .speak:hover{
+background:#3b8167;
 }
 
 .back{
