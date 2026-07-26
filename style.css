@@ -635,3 +635,18 @@ box-shadow:0 3px 10px rgba(0,0,0,.15);
 cursor:pointer;
 
 }
+#downloadSelect{
+background:transparent;
+color:white;
+border:none;
+padding:10px 16px;
+font-size:15px;
+font-weight:bold;
+border-radius:8px;
+cursor:pointer;
+outline:none;
+}
+
+#downloadSelect option{
+color:#000;
+}
