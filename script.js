@@ -1562,3 +1562,26 @@ restoreFile.value="";
 
 
 }
+const downloadSelect = document.getElementById("downloadSelect");
+
+if(downloadSelect){
+
+downloadSelect.onchange = function(){
+
+    const link = document.createElement("a");
+
+    link.href = this.value;
+
+    link.download = "";
+
+    document.body.appendChild(link);
+
+    link.click();
+
+    link.remove();
+
+    this.selectedIndex = 0;
+
+};
+
+}
