@@ -1304,3 +1304,185 @@ document.getElementById("restorePreset").onchange = async function () {
     location.reload();
 
 };
+//================ MEMORY GAME =================
+
+const memoryBtn = document.getElementById("memoryBtn");
+const memoryModal = document.getElementById("memoryModal");
+const startMemory = document.getElementById("startMemory");
+const memoryStart = document.getElementById("memoryStart");
+const memoryGame = document.getElementById("memoryGame");
+const memoryGrid = document.getElementById("memoryGrid");
+
+let memoryWords = [];
+let firstCard = null;
+let secondCard = null;
+let lockBoard = false;
+let matchedPairs = 0;
+let moves = 0;
+let startTime = 0;
+
+memoryBtn.onclick = () => {
+
+    let all = [...data, ...learned]
+        .filter(x => x.lang === currentLang);
+
+    if (all.length < 12) {
+
+        alert("حداقل ۱۲ کلمه لازم است");
+        return;
+
+    }
+
+    memoryModal.style.display = "flex";
+    memoryStart.style.display = "block";
+    memoryGame.style.display = "none";
+
+};
+
+memoryModal.onclick = e => {
+
+    if (e.target === memoryModal) {
+
+        memoryModal.style.display = "none";
+
+    }
+
+};
+
+startMemory.onclick = () => {
+
+    let all = [...data, ...learned]
+        .filter(x => x.lang === currentLang);
+
+    memoryWords = all
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 12);
+
+    let cards = [];
+
+    memoryWords.forEach(item => {
+
+        cards.push({
+            id: item.id,
+            text: item.fa
+        });
+
+        cards.push({
+            id: item.id,
+            text: item.en
+        });
+
+    });
+
+    cards.sort(() => Math.random() - 0.5);
+
+    memoryGrid.innerHTML = "";
+
+    firstCard = null;
+    secondCard = null;
+    matchedPairs = 0;
+    moves = 0;
+    lockBoard = false;
+    startTime = Date.now();
+
+    cards.forEach(card => {
+
+        const div = document.createElement("div");
+
+        div.className = "memoryCard";
+
+        div.textContent = card.text;
+
+        div.dataset.id = card.id;
+
+        div.onclick = () => selectMemoryCard(div);
+
+        memoryGrid.appendChild(div);
+
+    });
+
+    memoryStart.style.display = "none";
+    memoryGame.style.display = "block";
+
+};
+function selectMemoryCard(card){
+
+    if(lockBoard) return;
+
+    if(card.classList.contains("correct")) return;
+
+    if(card===firstCard) return;
+
+    card.classList.add("selected");
+
+    if(!firstCard){
+
+        firstCard=card;
+        return;
+
+    }
+
+    secondCard=card;
+
+    lockBoard=true;
+
+    moves++;
+
+    if(firstCard.dataset.id===secondCard.dataset.id){
+
+        firstCard.classList.remove("selected");
+        secondCard.classList.remove("selected");
+
+        firstCard.classList.add("correct");
+        secondCard.classList.add("correct");
+
+        firstCard=null;
+        secondCard=null;
+
+        lockBoard=false;
+
+        matchedPairs++;
+
+        if(matchedPairs===memoryWords.length){
+
+            const sec=Math.floor((Date.now()-startTime)/1000);
+
+            setTimeout(()=>{
+
+                alert(
+`🎉 تبریک
+
+زمان: ${sec} ثانیه
+
+حرکت: ${moves}`
+                );
+
+                memoryModal.style.display="none";
+
+            },300);
+
+        }
+
+    }else{
+
+        firstCard.classList.remove("selected");
+        secondCard.classList.remove("selected");
+
+        firstCard.classList.add("wrong");
+        secondCard.classList.add("wrong");
+
+        setTimeout(()=>{
+
+            firstCard.classList.remove("wrong");
+            secondCard.classList.remove("wrong");
+
+            firstCard=null;
+            secondCard=null;
+
+            lockBoard=false;
+
+        },800);
+
+    }
+
+}
