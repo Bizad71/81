@@ -1362,15 +1362,15 @@ startMemory.onclick = () => {
 
     memoryWords.forEach(item => {
 
-        cards.push({
-            id: item.id,
-            text: item.fa
-        });
+cards.push({
+    pair: item.fa + "|" + item.en,
+    text: item.fa
+});
 
-        cards.push({
-            id: item.id,
-            text: item.en
-        });
+cards.push({
+    pair: item.fa + "|" + item.en,
+    text: item.en
+});
 
     });
 
@@ -1393,7 +1393,7 @@ startMemory.onclick = () => {
 
         div.textContent = card.text;
 
-        div.dataset.id = card.id;
+div.dataset.pair = card.pair;
 
         div.onclick = () => selectMemoryCard(div);
 
@@ -1428,7 +1428,7 @@ function selectMemoryCard(card){
 
     moves++;
 
-    if(firstCard.dataset.id===secondCard.dataset.id){
+   if(firstCard.dataset.pair===secondCard.dataset.pair){
 
         firstCard.classList.remove("selected");
         secondCard.classList.remove("selected");
