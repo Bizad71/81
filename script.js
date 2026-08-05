@@ -1414,7 +1414,20 @@ function selectMemoryCard(card){
     if(card===firstCard) return;
 
     card.classList.add("selected");
+const text = card.textContent.trim();
 
+if (/^[A-Za-z\s'-]+$/.test(text)) {
+
+    const speech = new SpeechSynthesisUtterance(text);
+
+    speech.lang = currentLang === "de" ? "de-DE" : "en-US";
+
+    speech.rate = 0.9;
+
+    speechSynthesis.cancel();
+    speechSynthesis.speak(speech);
+
+}
     if(!firstCard){
 
         firstCard=card;
